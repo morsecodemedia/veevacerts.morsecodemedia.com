@@ -1,8 +1,10 @@
 <template>
   <div>
     <h1>
-      Hello World!
+      Veeva Certs
     </h1>
+    <p>A tool for studying for Veeva certifications.</p>
+    <nuxt-link to="/">CLM Technical Certification</nuxt-link>
   </div>
 </template>
 
@@ -13,18 +15,18 @@ export default {
     return {
       title: '',
       meta: [
-        { hid: 'ogtitle', property: 'og:title', content: '' },
-        { hid: 'twtitle', name: 'twitter:title', content: '' },
-        { hid: 'googlename', itemprop: 'name', content: '' },
-        { hid: 'description', name: 'description', content: '' },
-        { hid: 'ogdescription', property: 'og:description', content: '' },
-        { hid: 'twdescription', name: 'twitter:description', content: '' },
-        { hid: 'googledescription', itemprop: 'description', content: '' },
-        { hid: 'ogurl', property: 'og:url', content: 'https://www.domain.com' + this.$route.path },
-        { hid: 'twsite', name: 'twitter:site', content: 'https://www.domain.com' + this.$route.path }
+        { hid: 'ogtitle', property: 'og:title', content: 'Veeva Certs | A morsecodemedia tool' },
+        { hid: 'twtitle', name: 'twitter:title', content: 'Veeva Certs | A morsecodemedia tool' },
+        { hid: 'googlename', itemprop: 'name', content: 'Veeva Certs | A morsecodemedia tool' },
+        { hid: 'description', name: 'description', content: 'A tool for studying for Veeva certifications.' },
+        { hid: 'ogdescription', property: 'og:description', content: 'A tool for studying for Veeva certifications.' },
+        { hid: 'twdescription', name: 'twitter:description', content: 'A tool for studying for Veeva certifications.' },
+        { hid: 'googledescription', itemprop: 'description', content: 'A tool for studying for Veeva certifications.' },
+        { hid: 'ogurl', property: 'og:url', content: 'https://veevacerts.morsecodemedia.com' + this.$route.path },
+        { hid: 'twsite', name: 'twitter:site', content: 'https://veevacerts.morsecodemedia.com' + this.$route.path }
       ],
       link: [
-        { hid: 'canonical', rel: 'canonical', href: 'https://www.domain.com' + this.$route.path }
+        { hid: 'canonical', rel: 'canonical', href: 'https://veevacerts.morsecodemedia.com' + this.$route.path }
       ]
     }
   }

@@ -34,11 +34,6 @@ export default {
   ** Plugins to load before mounting the App
   */
   plugins: [
-    { mode: 'client', src: '~/plugins/focus-trap.js' },
-    { mode: 'client', src: '~/plugins/resize-frame.js' },
-    { mode: 'client', src: '~/plugins/scroll-frame.js' },
-    { mode: 'client', src: '~/plugins/modals.js' },
-    { mode: 'client', src: '~/plugins/exit-link.js' },
     { mode: 'client', src: '~/plugins/vh.js' }
   ],
   /*
@@ -57,7 +52,7 @@ export default {
     '@nuxtjs/redirect-module'
   ],
   sitemap: {
-    hostname: 'https://www.domain.com',
+    hostname: 'https://veevacerts.morsecodemedia.com',
     gzip: true,
     trailingSlash: true,
     defaults: {
@@ -75,7 +70,7 @@ export default {
   },
   robots: {
     UserAgent: '*',
-    Sitemap: 'https://www.domain.com/sitemap.xml'
+    Sitemap: 'https://veevacerts.morsecodemedia.com/sitemap.xml'
   },
   redirect: [
     { from: '^(\\/[^\\?]*[^\\/])(\\?.*)?$', to: '$1/$2', statusCode: 301 }
