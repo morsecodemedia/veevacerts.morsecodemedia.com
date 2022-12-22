@@ -20,7 +20,7 @@ export default {
   name: 'App',
   head () {
     return {
-      title: '',
+      title: 'Veeva Certs | A morsecodemedia tool',
       meta: [
         { hid: 'ogtitle', property: 'og:title', content: 'Veeva Certs | A morsecodemedia tool' },
         { hid: 'twtitle', name: 'twitter:title', content: 'Veeva Certs | A morsecodemedia tool' },

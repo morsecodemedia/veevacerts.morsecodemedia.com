@@ -1,19 +1,28 @@
 <template>
-  <div>
+  <div class="homepage">
     <h1>
       Veeva Certs
     </h1>
     <p>A tool for studying for Veeva certifications.</p>
-    <nuxt-link to="/">CLM Technical Certification</nuxt-link>
+    <div class="link-container">
+      <nuxt-link to="/">
+        CLM Technical Certification v2
+      </nuxt-link>
+    </div>
   </div>
 </template>
 
 <script>
 export default {
   name: 'HomePage',
+  data () {
+    return {
+      disabled: true
+    }
+  },
   head () {
     return {
-      title: '',
+      title: 'Veeva Certs | A morsecodemedia tool',
       meta: [
         { hid: 'ogtitle', property: 'og:title', content: 'Veeva Certs | A morsecodemedia tool' },
         { hid: 'twtitle', name: 'twitter:title', content: 'Veeva Certs | A morsecodemedia tool' },
@@ -32,15 +41,21 @@ export default {
   }
 }
 </script>
+
 <style lang="scss">
-h1 {
-  display: block;
-  background: rgb(2,0,36);
-  background: linear-gradient(164deg, rgba(2,0,36,1) 0%, rgba(107,107,232,1) 35%, rgba(0,212,255,1) 100%);
-  height: 100vh;
-  color: white;
+.homepage {
+  max-width: 900px;
+  margin: 30px auto;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
+  p {
+    margin-bottom: 30px;
+  }
+}
+.link-container {
+  display: flex;
+  flex-direction: column;
 }
 </style>

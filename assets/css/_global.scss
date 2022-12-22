@@ -64,3 +64,19 @@
 		transform: translateX(-1000);
 	}
 }
+
+a, button {
+  max-width: 300px;
+  text-align: center;
+  text-decoration: none;
+  color: var(--black);
+  background: var(--white);
+  padding: 5px 15px;
+  border: 1px solid var(--black);
+  border-radius: 15px;
+  margin-bottom: 20px;
+  &:hover {
+    color: var(--white);
+    background: var(--black);
+  }
+}
