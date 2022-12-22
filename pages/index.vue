@@ -5,7 +5,7 @@
     </h1>
     <p>A tool for studying for Veeva certifications.</p>
     <div class="link-container">
-      <nuxt-link to="/">
+      <nuxt-link to="/clm-technical-v2/">
         CLM Technical Certification v2
       </nuxt-link>
     </div>
