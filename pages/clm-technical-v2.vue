@@ -41,14 +41,16 @@
               <span class="question" v-html="q.question" />
               <table cellspacing="0" cellpadding="10">
                 <tr v-for="a in q.answers" :key="a.option" class="answer-row">
-                  <label>
-                    <input
-                      type="checkbox"
-                      :checked="a.valid === 'Correct'"
-                      disabled
-                    >
-                    {{ a.option }}
-                  </label>
+                  <td>
+                    <label>
+                      <input
+                        type="checkbox"
+                        :checked="a.valid === 'Correct'"
+                        disabled
+                      >
+                      {{ a.option }}
+                    </label>
+                  </td>
                 </tr>
               </table>
             </td>
@@ -1120,7 +1122,7 @@ export default {
   }
 }
 .question {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: bold;
   margin-bottom: 15px;
 }
@@ -1128,11 +1130,12 @@ export default {
   padding: 0 10px;
   label {
     font-size: 18px;
-    margin-bottom: 10px;
     padding: 5px 0;
     width: 100vw;
     max-width: 900px;
     display: flex;
+  }
+  td {
     border-bottom: 1px solid #ccc;
   }
 }
@@ -1146,5 +1149,7 @@ input[type="text"] {
 }
 input[type="checkbox"] {
   margin-right: 10px;
+  height: 20px;
+  width: 20px;
 }
 </style>
