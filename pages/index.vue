@@ -8,6 +8,9 @@
       <nuxt-link to="/clm-technical-v2/">
         CLM Technical Certification v2
       </nuxt-link>
+      <nuxt-link to="/vae-technical-v2/">
+        Approved Email Technical Certification v2
+      </nuxt-link>
     </div>
   </div>
 </template>
