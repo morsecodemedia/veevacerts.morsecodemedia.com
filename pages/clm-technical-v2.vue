@@ -1139,14 +1139,12 @@ export default {
 input[type="text"] {
   padding: 5px 15px;
   font-size: 18px;
+  display: block;
+  width: 100vw;
+  max-width: 900px;
+  margin-bottom: 5px;
 }
 input[type="checkbox"] {
   margin-right: 10px;
-}
-.filter-menu {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
 }
 </style>
