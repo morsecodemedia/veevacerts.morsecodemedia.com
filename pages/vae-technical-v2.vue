@@ -1168,7 +1168,7 @@ export default {
           ]
         },
         {
-          question: "Email Fragment content must be encapsulated in a &lt;tr&gt;&lt;/tr&gt; tag.",
+          question: "Email Fragment content must be encapsulated in a &lt;tr&gt; &lt;/tr&gt; tag.",
           answers: [
             {
               option: "True",
