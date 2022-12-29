@@ -11,6 +11,9 @@
       <nuxt-link to="/vae-technical-v2/">
         Approved Email Technical Certification v2
       </nuxt-link>
+      <nuxt-link to="/engage-technical-v2/">
+        Engage Meeting Technical Certification v2
+      </nuxt-link>
     </div>
   </div>
 </template>
