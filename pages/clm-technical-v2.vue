@@ -30,13 +30,13 @@
       </div>
     </div>
     <div
-      v-if="filteredCLM.length"
+      v-if="filteredQ.length"
       id="clm"
     >
-      <p>Showing {{ filteredCLM.length }} of {{ clm.length }}</p>
+      <p>Showing {{ filteredQ.length }} of {{ clm.length }}</p>
       <table border="1" cellspacing="0" cellpadding="10">
         <tbody>
-          <tr v-for="q in filteredCLM" :key="q.question">
+          <tr v-for="q in filteredQ" :key="q.question">
             <td colspan="2">
               <span class="question" v-html="q.question" />
               <table cellspacing="0" cellpadding="10">
@@ -1085,7 +1085,7 @@ export default {
     }
   },
   computed: {
-    filteredCLM () {
+    filteredQ () {
       return this.clm
         .filter(b =>
           b.question.toLowerCase().includes(this.filter.toLowerCase())
@@ -1103,7 +1103,7 @@ export default {
         })
     },
     resultNum () {
-      return this.filteredCLM.length
+      return this.filteredQ.length
     }
   }
 }
