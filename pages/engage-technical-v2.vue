@@ -9,7 +9,7 @@
           type="text"
           class="code-filter"
           placeholder="Type here to search questions and answers."
-        />
+        >
       </label>
       <div v-if="filter" class="filter-results">
         <div class="result-num">
@@ -24,7 +24,12 @@
           <span v-if="resultNum == 1">matches</span>
           your keyword.
         </div>
-        <button class="clear-btn" @click="filter = ''">CLEAR FILTER</button>
+        <button
+          class="clear-btn"
+          @click="filter = ''"
+        >
+          CLEAR FILTER
+        </button>
       </div>
     </div>
     <div v-if="filteredQ.length" id="engage">
@@ -33,7 +38,7 @@
         <tbody>
           <tr v-for="q in filteredQ" :key="q.question">
             <td colspan="2">
-              <span class="question" v-html="q.question" />
+              <span class="question" v-html="q.question" />>
               <table cellspacing="0" cellpadding="10">
                 <tr v-for="a in q.answers" :key="a.option" class="answer-row">
                   <td>
@@ -42,7 +47,7 @@
                         type="checkbox"
                         :checked="a.valid === 'Correct'"
                         disabled
-                      />
+                      >
                       {{ a.option }}
                     </label>
                   </td>
