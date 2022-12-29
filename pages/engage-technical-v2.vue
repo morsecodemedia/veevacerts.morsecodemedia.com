@@ -38,7 +38,7 @@
         <tbody>
           <tr v-for="q in filteredQ" :key="q.question">
             <td colspan="2">
-              <span class="question" v-html="q.question" />>
+              <span class="question" v-html="q.question" />
               <table cellspacing="0" cellpadding="10">
                 <tr v-for="a in q.answers" :key="a.option" class="answer-row">
                   <td>
