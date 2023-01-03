@@ -45,6 +45,11 @@ export default {
           data: 'engageTechV2',
           label: 'Engage Meeting Technical Certification v2',
           url: '/engage-technical-v2/'
+        },
+        {
+          data: 'promomatsReviewApprovalV2',
+          label: 'PromoMats Reivew & Approval v2',
+          url: '/promomats-review-and-approval-v2/'
         }
       ]
     }

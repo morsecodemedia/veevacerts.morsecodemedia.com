@@ -1,0 +1,551 @@
+{
+  "promomats": [
+    {
+      "question": "How many documents are displayed in the Recent Library?",
+      "answers": [
+        {
+          "option": "5",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "50",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "20",
+          "valid": "Correct"
+        },
+        {
+          "option": "15",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "You can find tasks assigned to you in the document library",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Which symbol is used to mark documents as favorites in the library?",
+      "answers": [
+        {
+          "option": "Checkmark",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Addition/Plus Symbol",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Star",
+          "valid": "Correct"
+        },
+        {
+          "option": "Circle",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "If you wanted to search for a document name for only a specific document type, which would you use?",
+      "answers": [
+        {
+          "option": "Advanced Search (Binoculars)",
+          "valid": "Correct"
+        },
+        {
+          "option": "Simple Search (Search Bar)",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "There is a limit of 5 fields to use as filters.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "A placeholder can be created to complete the metadata for a document before the document is ready to be uploaded.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "A document can have multiple owners.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "What is the file size limit for document uploads?",
+      "answers": [
+        {
+          "option": "1 GB",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "2 GB",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "4 GB",
+          "valid": "Correct"
+        },
+        {
+          "option": "500 MB",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "My Library shows all documents that you have access to in PromoMats.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can you upload a document withou classifying it?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "What's the file size limit for uploading a video which will create a viewable rendition?",
+      "answers": [
+        {
+          "option": "1 GB",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "2 GB",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "5 GB",
+          "valid": "Correct"
+        },
+        {
+          "option": "10 GB",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "What types of annotations can be made with a text annotation?",
+      "answers": [
+        {
+          "option": "Insert",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Highlight",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Strikeout",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "All of the above",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "When creating an anchor link to an existing document, you can't use existing anchors.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Annotations can be made offline.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can annotation colors be organized by role in a customer Vault?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can you create an annotation link to a whole document?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can you import document links without a document being uploaded?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Binders can include sections.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "True",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Does the ability to annotate require specific permissions?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Annotations can be made on videos.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "To receive alerts for your favorite documents, where would you enable this?",
+      "answers": [
+        {
+          "option": "Task Library",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Individual Documents",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Profile Settings",
+          "valid": "Correct"
+        },
+        {
+          "option": "Document Library",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "What's the most efficient way to start the process of localizing a document from another country/language?",
+      "answers": [
+        {
+          "option": "Build a new version of the document",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Request files from original agency",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Make a copy in PromoMats and send to local agency",
+          "valid": "Correct"
+        },
+        {
+          "option": "Download and send to local agency",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "You are going on vacation and need to provide access of your account to another team member to review tasks and documents, how would you do this?",
+      "answers": [
+        {
+          "option": "Delegate access to their account",
+          "valid": "Correct"
+        },
+        {
+          "option": "Share your login with them",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Send them links to documents",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Add them to sharing settings",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "What are the two key matching fields for a claim in the claim library?",
+      "answers": [
+        {
+          "option": "Product & Country",
+          "valid": "Correct"
+        },
+        {
+          "option": "Product & Document Type",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Product & Language",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Country & Category",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "What icon is used to illustrate that an annotation was created from the Claims Library using Suggested Links?",
+      "answers": [
+        {
+          "option": "Exclamation Point",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Hashtag",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Lightbulb",
+          "valid": "Correct"
+        },
+        {
+          "option": "Star",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "What's the best way to share comments with your team members that don't have access to PromoMats?",
+      "answers": [
+        {
+          "option": "Share your login",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Print annotations",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Export Annotations",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Can you start a new workflow when completing a task?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Yes",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Once a comment is resolved, it cannot be reopened.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "How can you ensure a document is not edited while you are making edits?",
+      "answers": [
+        {
+          "option": "Check out the document",
+          "valid": "Correct"
+        },
+        {
+          "option": "Placing document on hold",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Download the document",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Lock the document",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Any user can start a workflow regardless of permissions?",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Uploading a new version of a document will expire the existing version.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Can you specify the document version that you want to bring annotations forward from?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "You can only download documents one at a time.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "If you have the appropriate permissions, can you start a workflow from the document info page?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can you filter annotations by user?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    }
+  ]
+}
