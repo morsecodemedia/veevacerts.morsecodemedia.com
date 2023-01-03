@@ -4,16 +4,23 @@
       Veeva Certs
     </h1>
     <p>A tool for studying for Veeva certifications.</p>
-    <div class="link-container">
-      <nuxt-link to="/clm-technical-v2/">
-        CLM Technical Certification v2
+    <div
+      v-if="(tests.length > 0)"
+      class="link-container"
+    >
+      <nuxt-link
+        v-for="t in tests"
+        :key="t.data"
+        :to="t.url"
+      >
+        {{ t.label }}
       </nuxt-link>
-      <nuxt-link to="/vae-technical-v2/">
-        Approved Email Technical Certification v2
-      </nuxt-link>
-      <nuxt-link to="/engage-technical-v2/">
-        Engage Meeting Technical Certification v2
-      </nuxt-link>
+    </div>
+    <div
+      v-else
+      class="link-container"
+    >
+      <p>There currently aren't any study exams available at this time.</p>
     </div>
   </div>
 </template>
@@ -23,7 +30,23 @@ export default {
   name: 'HomePage',
   data () {
     return {
-      disabled: true
+      tests: [
+        {
+          data: 'clmTechV2',
+          label: 'CLM Technical Certification v2',
+          url: '/clm-technical-v2/'
+        },
+        {
+          data: 'vaeTechV2',
+          label: 'Approved Email Technical Certification v2',
+          url: '/vae-technical-v2/'
+        },
+        {
+          data: 'engageTechV2',
+          label: 'Engage Meeting Technical Certification v2',
+          url: '/engage-technical-v2/'
+        }
+      ]
     }
   },
   head () {
