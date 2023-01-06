@@ -1,6 +1,6 @@
 <template>
   <div class="clm-tech-v2">
-    <h1>Veeva CLM Technical Certification</h1>
+    <h1>Veeva CLM Technical & Business Certification v2</h1>
     <div class="filter-menu">
       <label>
         Live Search
@@ -65,7 +65,7 @@
 import { clm } from '~/static/clm.json'
 
 export default {
-  name: 'CLMTechV2',
+  name: 'CLMTechnicalBusinessV2',
   data () {
     return {
       filter: '',
@@ -74,42 +74,42 @@ export default {
   },
   head () {
     return {
-      title: 'CLM Technical v2 - Veeva Certs | A morsecodemedia tool',
+      title: 'CLM Technical and Business v2 - Veeva Certs | A morsecodemedia tool',
       meta: [
         {
           hid: 'ogtitle',
           property: 'og:title',
-          content: 'CLM Technical v2 - Veeva Certs | A morsecodemedia tool'
+          content: 'CLM Technical and Business v2 - Veeva Certs | A morsecodemedia tool'
         },
         {
           hid: 'twtitle',
           name: 'twitter:title',
-          content: 'CLM Technical v2 - Veeva Certs | A morsecodemedia tool'
+          content: 'CLM Technical and Business v2 - Veeva Certs | A morsecodemedia tool'
         },
         {
           hid: 'googlename',
           itemprop: 'name',
-          content: 'CLM Technical v2 - Veeva Certs | A morsecodemedia tool'
+          content: 'CLM Technical and Business v2 - Veeva Certs | A morsecodemedia tool'
         },
         {
           hid: 'description',
           name: 'description',
-          content: 'A tool for studying for Veeva certifications.'
+          content: 'A tool for studying for the Veeva CLM Technical and Business v2 certifications.'
         },
         {
           hid: 'ogdescription',
           property: 'og:description',
-          content: 'A tool for studying for Veeva certifications.'
+          content: 'A tool for studying for the Veeva CLM Technical and Business v2 certifications.'
         },
         {
           hid: 'twdescription',
           name: 'twitter:description',
-          content: 'A tool for studying for Veeva certifications.'
+          content: 'A tool for studying for the Veeva CLM Technical and Business v2 certifications.'
         },
         {
           hid: 'googledescription',
           itemprop: 'description',
-          content: 'A tool for studying for Veeva certifications.'
+          content: 'A tool for studying for the Veeva CLM Technical and Business v2 certifications.'
         },
         {
           hid: 'ogurl',

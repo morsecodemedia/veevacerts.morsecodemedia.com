@@ -33,8 +33,8 @@ export default {
       tests: [
         {
           data: 'clmTechV2',
-          label: 'CLM Technical Certification v2',
-          url: '/clm-technical-v2/'
+          label: 'CLM Technical & Business Certifications v2',
+          url: '/clm-technical-business-v2/'
         },
         {
           data: 'vaeTechV2',
