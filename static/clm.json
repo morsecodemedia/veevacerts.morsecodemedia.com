@@ -1113,6 +1113,228 @@
           "valid": "Incorrect"
         }
       ]
+    },
+    {
+      "question": "Can you allow Reps to access content specifically for training and prevent this from being shown accidentally to an HCP?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can Reps view CLM content via the PowerPoint application on their iPad?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can a native Microsoft Powerpoint Presentation be converted into a Veeva CLM Presentation?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Is it possible to require certain content to be viewed prior to the rest of the Presentation?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Do Custom Presentations allow the Rep to modify CLM content directly?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "No",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "If correctly configured, can PowerPoint content include navigation buttons when converted into a CLM Presentation?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Does Vault PromoMats have a specific packaging format?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Depends on the circumstances",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Is it possible to preview CLM content within Vault PromoMats?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "What types of content are supported in Veeva CLM?",
+      "answers": [
+        {
+          "option": "HTML",
+          "valid": "Correct"
+        },
+        {
+          "option": "Image",
+          "valid": "Correct"
+        },
+        {
+          "option": "PDF",
+          "valid": "Correct"
+        },
+        {
+          "option": "Video",
+          "valid": "Correct"
+        },
+        {
+          "option": "PowerPoint",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "What is best practice for testing CLM content?",
+      "answers": [
+        {
+          "option": "View in Veeva CRM on the same device as Reps use in the field",
+          "valid": "Correct"
+        },
+        {
+          "option": "View in Safari on iPad or Edge on Windows",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "View in CLM Preview in Vault PromoMats",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "View in Veeva CRM on any device",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "For Auto-Packaging of Images, PDFs and Videos, which fields must be populated for CLM?",
+      "answers": [
+        {
+          "option": "CLM Content",
+          "valid": "Correct"
+        },
+        {
+          "option": "Description",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Shared Resource",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "CRM Media Type",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Select the advantages of using Survey Integration in CLM.",
+      "answers": [
+        {
+          "option": "The Rep does not need to leave the CLM Presentation to complete the survey",
+          "valid": "Correct"
+        },
+        {
+          "option": "The Rep can easily send a survey from Approved Email",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "The Rep can complete multiple surveys at once",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "The survey can be delivered in a more interactive way",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Can Surveys be integrated into a PDF CLM Presentation?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Correct"
+        },
+        {
+          "option": "Yes",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "When SUrvey Branching is used, will the HCP see the child questions when the Survey initally loads on the page?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Correct"
+        },
+        {
+          "option": "Yes",
+          "valid": "Incorrect"
+        }
+      ]
     }
   ]
 }
