@@ -1335,6 +1335,333 @@
           "valid": "Incorrect"
         }
       ]
+    },
+    {
+      "question": "Which of the following versions are included in the Veeva CRM iOS Support Policy?",
+      "answers": [
+        {
+          "option": "The latest version of iOS and one previous version",
+          "valid": "Correct"
+        },
+        {
+          "option": "The most current generally available version and four prior historical versions",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "The latest iOS version",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "How many pixels is the total area of the Action button, Highlighter Pen, and History Buttons?",
+      "answers": [
+        {
+          "option": "60x176",
+          "valid": "Correct"
+        },
+        {
+          "option": "60x37",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "30x150",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following can be disabled within CLM?",
+      "answers": [
+        {
+          "option": "History Buttons",
+          "valid": "Correct"
+        },
+        {
+          "option": "Reaction Buttons",
+          "valid": "Correct"
+        },
+        {
+          "option": "Action Button",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Navigation Bar",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "The Action Button is how many pixels?",
+      "answers": [
+        {
+          "option": "54x36",
+          "valid": "Correct"
+        },
+        {
+          "option": "50x30",
+          "valid": "Correct"
+        },
+        {
+          "option": "70x40",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "After uploading content into Veeva Vault, which statement is true?",
+      "answers": [
+        {
+          "option": "It is immediately available on the iPad",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "It must be synced to Veeva CRM",
+          "valid": "Correct"
+        },
+        {
+          "option": "Content should never be loaded into Veeva Vault",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "If no option is selected, which resolution is selected by default?",
+      "answers": [
+        {
+          "option": "Default for Device",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Scale 2048x1536",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Scale to Fit",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Scale to 1024x768",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Can the Custom Presentation Feature be turned on presentation by presentation?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Correct"
+        },
+        {
+          "option": "Yes",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can you access Hidden Presentations via the Media Tab in CRM Offline?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Correct"
+        },
+        {
+          "option": "Yes",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Yes, if configured",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Is it possible to migrate individual Key Messages from one Veeva CRM instance to another Veeva CRM instance?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Correct"
+        },
+        {
+          "option": "Yes",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Is it possible to automatically link a Key Message to a CLM Presentation in Veeva CRM?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "When uploading via FTP, if you are uploading 10 Key Messages, how many control files do you need?",
+      "answers": [
+        {
+          "option": "11",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "20",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "10",
+          "valid": "Correct"
+        },
+        {
+          "option": "1",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "For Legacy Packaging, should the thumbnail be a jpg or png?",
+      "answers": [
+        {
+          "option": "jpg",
+          "valid": "Correct"
+        },
+        {
+          "option": "png",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Under what circumstances must you use legacy packaging?",
+      "answers": [
+        {
+          "option": "When using a legacy version of Veeva CRM",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Loading content into Veeva CRM",
+          "valid": "Correct"
+        },
+        {
+          "option": "Loading content in to Vault Promomats",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "What types of content can be loaded?",
+      "answers": [
+        {
+          "option": "HTML",
+          "valid": "Correct"
+        },
+        {
+          "option": "PowerPoint",
+          "valid": "Correct"
+        },
+        {
+          "option": "PDF",
+          "valid": "Correct"
+        },
+        {
+          "option": "Image",
+          "valid": "Correct"
+        },
+        {
+          "option": "Video",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Vault PromoMats can automatically package content for which content types?",
+      "answers": [
+        {
+          "option": "PDF",
+          "valid": "Correct"
+        },
+        {
+          "option": "Javascript",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Video",
+          "valid": "Correct"
+        }, 
+        {
+          "option": "HTML",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Image",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Can custom fields be created in Veeva Vault and CRM?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Do CRM Administration Tabs need to be set up to enable CRM Publishing?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following are Survey Type Records?",
+      "answers": [
+        {
+          "option": "User Survey",
+          "valid": "Correct"
+        },
+        {
+          "option": "One Time",
+          "valid": "Incorrect"
+        }, 
+        {
+          "option": "Recurring",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Internal Surveys in CLM are only available from which of the following?",
+      "answers": [
+        {
+          "option": "Via hidden presentations",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "In Training content",
+          "valid": "Correct"
+        },
+        {
+          "option": "In the media section",
+          "valid": "Incorrect"
+        }
+      ]
     }
   ]
 }
