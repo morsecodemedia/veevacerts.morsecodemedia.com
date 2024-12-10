@@ -1344,6 +1344,595 @@
             "valid": "Incorrect"
           }
         ]
+      },
+      {
+        "question": "The image path in the HTML file will use which of the following:",
+        "answers": [
+          {
+            "option": "<img src='./my-local-folder/chillaxa-logo.png'>",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "<img src='my-local-folder/chillaxa-logo.png'>",
+            "valid": "Correct"
+          },
+          {
+            "option": "img src '/my-local-folder/chillaxa-logo.png'",
+            "valid": "Incorrect"
+          }
+        ]
+      },
+      {
+        "question": "The Vault Viewer can be embedded into an external branded website.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "True",
+            "valid": "Correct"
+          }
+        ]
+      },
+      {
+        "question": "The Rich Text token allows End Users to add a more versatile free text email by displaying a default text area of which of the following:",
+        "answers": [
+          {
+            "option": "200 x 300 pixels",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "400 x 300 pixels",
+            "valid": "Correct"
+          },
+          {
+            "option": "500 x 500",
+            "valid": "Incorrect"
+          }
+        ]
+      },
+      {
+        "question": "Email Fragments cannot be standalone.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "True",
+            "valid": "Correct"
+          }
+        ]
+      },
+      {
+        "question": "Approved Emails uses JSON file and a set of Veeva Aprroved Email Configuration Tokens to enable Content Creators to create content for Reps to send to HCPs.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Correct"
+          },
+          {
+            "option": "True",
+            "valid": "Incorrect"
+          }
+        ]
+      },
+      {
+        "question": "When populating the Vault Fields in an Email Template, the Subject field needs to be hard-coded.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Correct"
+          },
+          {
+            "option": "True",
+            "valid": "Incorrect"
+          }
+        ]
+      },
+      {
+        "question": "In Vault, the fields highlighted in ___________ are required.",
+        "answers": [
+          {
+            "option": "Orange",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "Yellow",
+            "valid": "Correct"
+          },
+          {
+            "option": "Red",
+            "valid": "Incorrect"
+          }
+        ]
+      },
+      {
+        "question": "To synchronize content from Vault PromoMats into CRM Online, the user needs to click on the",
+        "answers": [
+          {
+            "option": "Approved Email Configuration Testing Tab",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "Approved Documents Tab",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "Approved Email Administration Tab",
+            "valid": "Correct"
+          }
+        ]
+      },
+      {
+        "question": "Before syncing Vault PromoMats and Veeva CRM, the Email Template must be set to Staged in the partner's environment.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Correct"
+          },
+          {
+            "option": "True",
+            "valid": "Incorrect"
+          }
+        ]
+      },
+      {
+        "question": "Images in an Email Template need to be uploaded in the Assets Section.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "True",
+            "valid": "Correct"
+          }
+        ]
+      },
+      {
+        "question": "Which of the following are elements of a Veeva Approved Email?",
+        "answers": [
+          {
+            "option": "Email Templates",
+            "valid": "Correct"
+          },
+          {
+            "option": "Email Fragments",
+            "valid": "Correct"
+          },
+          {
+            "option": "Template Fragments",
+            "valid": "Correct"
+          }
+        ]
+      },
+      {
+        "question": "A Template Frament is an HTML snippet, used to create a footer appended to an Email Template and can be used across many Email Templates.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "True",
+            "valid": "Correct"
+          }
+        ]
+      },
+      {
+        "question": "It is possible to include multiple Email Fragments in a single Email Template.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "True",
+            "valid": "Correct"
+          }
+        ]
+      },
+      {
+        "question": "Reference documents are opened in the Document Viewer. Which options below can be set by the customer to control document download?",
+        "answers": [
+          {
+            "option": "Not available for download",
+            "valid": "Correct"
+          },
+          {
+            "option": "Allow source download",
+            "valid": "Correct"
+          },
+          {
+            "option": "Allow HTML download",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "Allow PDF download",
+            "valid": "Correct"
+          }
+        ]
+      },
+      {
+        "question": "The hyperlink of a Document is only a reference to the document in Vault and customers are unable to make any updates.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Correct"
+          },
+          {
+            "option": "True",
+            "valid": "Incorrect"
+          }
+        ]
+      },
+      {
+        "question": "An Email Fragment is a modular HTML snippet that can't contain embedded text or images.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Correct"
+          },
+          {
+            "option": "True",
+            "valid": "Incorrect"
+          }
+        ]
+      },
+      {
+        "question": "Content Creators can use Approved Email Configuration Tokens within Email Fragments but only tokens which do not require the input of the Rep and are supported.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "True",
+            "valid": "Correct"
+          }
+        ]
+      },
+      {
+        "question": "If no Fragment is associated with the Template, any Fragment can be selected.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "True",
+            "valid": "Correct"
+          }
+        ]
+      },
+      {
+        "question": "In order to upload a Document into Vault, Content Creators can choose the Document type in the last step of the process.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Correct"
+          },
+          {
+            "option": "True",
+            "valid": "Incorrect"
+          }
+        ]
+      },
+      {
+        "question": "In order to upload an Email Fragment into Vault PromoMats, Content Creators must have an HTML file with images inserted.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Correct"
+          },
+          {
+            "option": "True",
+            "valid": "Incorrect"
+          }
+        ]
+      },
+      {
+        "question": "The token {{PieceLink}} in the HTML will link to a Prescribing Information Document Type",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Correct"
+          },
+          {
+            "option": "True",
+            "valid": "Incorrect"
+          }
+        ]
+      },
+      {
+        "question": "In Veeva CRM Online, the details on each email activity can be reviewed by clicking on the Email Activity record.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "True",
+            "valid": "Correct"
+          }
+        ]
+      },
+      {
+        "question": "In the Sent Email Section in Veeva CRM Online, which of the following details are visible for the Reps from the Template Email sent.",
+        "answers": [
+          {
+            "option": "Clicked",
+            "valid": "Correct"
+          },
+          {
+            "option": "Name",
+            "valid": "Correct"
+          },
+          {
+            "option": "Opened",
+            "valid": "Correct"
+          },
+          {
+            "option": "Product",
+            "valid": "Correct"
+          },
+          {
+            "option": "Delivered",
+            "valid": "Correct"
+          }
+        ]
+      },
+      {
+        "question": "From the 'My Accounts' page, the Rep can send an email to up to how many recipients at once?",
+        "answers": [
+          {
+            "option": "25",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "50",
+            "valid": "Correct"
+          },
+          {
+            "option": "75",
+            "valid": "Incorrect"
+          }
+        ]
+      },
+      {
+        "question": "When sending an Approved Email, ensure the Account Approved Email Consent is set to 'Explicit Opt In'",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Correct"
+          },
+          {
+            "option": "True",
+            "valid": "Incorrect"
+          }
+        ]
+      },
+      {
+        "question": "The details on each email acitivity can not be reviewed on Veeva CRM Mobile.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Correct"
+          },
+          {
+            "option": "True",
+            "valid": "Incorrect"
+          }
+        ]
+      },
+      {
+        "question": "{{addToCalendar}} token will not work if an Email Template is sent through the Veeva CRM Mobile Application on a Windows tablet.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "True",
+            "valid": "Correct"
+          }
+        ]
+      },
+      {
+        "question": "Before syncing Vault PromoMats and Veeva CRM, the Email Template for Engage Meeting must be set to Expired.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Correct"
+          },
+          {
+            "option": "True",
+            "valid": "Incorrect"
+          }
+        ]
+      },
+      {
+        "question": "Approved Email Templates used for Engage Meeting invitations cannot contain images.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Correct"
+          },
+          {
+            "option": "True",
+            "valid": "Incorrect"
+          }
+        ]
+      },
+      {
+        "question": "There aren't Tokens that provider the HCP with the date and time of the meeting and details to join the meeting.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Correct"
+          },
+          {
+            "option": "True",
+            "valid": "Incorrect"
+          }
+        ]
+      },
+      {
+        "question": "Meeting ID and Meeting Password tokens are used to display the unique meeting ID and password in Approved Email Invitation.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "True",
+            "valid": "Correct"
+          }
+        ]
+      },
+      {
+        "question": "Embedding the Survey iFrame in a custom landing page is supported.",
+        "answers": [
+          {
+            "option": "True",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "False",
+            "valid": "Correct"
+          }
+        ]
+      },
+      {
+        "question": "Which fields must be filled in when creating a survey in Vault?",
+        "answers": [
+          {
+            "option": "CRM ID",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "External ID",
+            "valid": "Correct"
+          }, 
+          {
+            "option": "Survey Name",
+            "valid": "Correct"
+          }
+        ]
+      },
+      {
+        "question": "Surveys can be available to survey targets without being Published.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Correct"
+          },
+          {
+            "option": "True",
+            "valid": "Incorrect"
+          }
+        ]
+      },
+      {
+        "question": "When an HCP receives an Approved Email with a link to a survey, the link launches the Survey in an iFrame on a Veeva hosted site.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "True",
+            "valid": "Correct"
+          }
+        ]
+      },
+      {
+        "question": "Which fields must be filled in when creating a survey in CRM for use in Approved Email?",
+        "answers": [
+          {
+            "option": "External ID",
+            "valid": "Correct"
+          },
+          {
+            "option": "Channels",
+            "valid": "Correct"
+          },
+          {
+            "option": "Product",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "iFrame Landing Page URL",
+            "valid": "Incorrect"
+          }
+        ]
+      },
+      {
+        "question": "The Rep can view footnotes and citations in preview mode before sending the Approved Email",
+        "answers": [
+          {
+            "option": "True",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "False",
+            "valid": "Correct"
+          }
+        ]
+      },
+      {
+        "question": "Under no circumstances should a BEE Editor email be downloaded and the HTML edited directly as it can cause issues with the email filtering to SPAM.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "True",
+            "valid": "Correct"
+          }
+        ]
+      },
+      {
+        "question": "Approved Email Configuration Tokens are used to define what citrations and footnotes are included, and where they are located in the Email Template.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "True",
+            "valid": "Correct"
+          }
+        ]
+      },
+      {
+        "question": "When working with Images in the BEE Editor, users are not able to edit the image (e.g. resize the image, apply visual effects, etc.).",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Correct"
+          },
+          {
+            "option": "True",
+            "valid": "Incorrect"
+          }
+        ]
+      },
+      {
+        "question": "When working with Text content in the BEE Editor, users can easily personalized content by inserting Special Links and Merge Tags from the Text menu.",
+        "answers": [
+          {
+            "option": "False",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "True",
+            "valid": "Correct"
+          }
+        ]
       }
     ]
   }

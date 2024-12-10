@@ -327,7 +327,7 @@
       "answers": [
         {
           "option": "getDataForCurrentObject",
-          "valid": "Inorrect"
+          "valid": "Incorrect"
         },
         {
           "option": "gotoSlide",
