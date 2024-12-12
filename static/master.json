@@ -1,0 +1,5457 @@
+{
+  "master": [
+    {
+      "question": "The Custom Reaction Buttons use how many pixels?",
+      "answers": [
+        {
+          "option": "160x37",
+          "valid": "Correct"
+        },
+        {
+          "option": "154x36",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "170x40",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "When the Navigation Bar displays during a CLM Presentation, it is possible to conceal the content above the Navigation Bar through the configuration.",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following can be disabled within CLM?",
+      "answers": [
+        {
+          "option": "The swipe motion for slide navigation",
+          "valid": "Correct"
+        },
+        {
+          "option": "The Action Button",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "The exit button if all slides have not been viewed in a presentation",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "What items are tracked 'Out of the box'?",
+      "answers": [
+        {
+          "option": "Presentation name",
+          "valid": "Correct"
+        },
+        {
+          "option": "Display order",
+          "valid": "Correct"
+        },
+        {
+          "option": "Version",
+          "valid": "Correct"
+        },
+        {
+          "option": "Start time",
+          "valid": "Correct"
+        },
+        {
+          "option": "Duration on a slide",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "On which device types does Veeva support Augmented Reality?",
+      "answers": [
+        {
+          "option": "iPhone",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "iPad",
+          "valid": "Correct"
+        },
+        {
+          "option": "Windows",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Android",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Wide Content tracks which of the following?",
+      "answers": [
+        {
+          "option": "Only the first Key Message of a CLM Presentation",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Each Key Message on the Call Report",
+          "valid": "Correct"
+        },
+        {
+          "option": "All clikcs on the Call Report",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which statement describes Deep Content?",
+      "answers": [
+        {
+          "option": "All slides or pages in a presentations are hosted in an individual file loaded as a single Key Message",
+          "valid": "Correct"
+        },
+        {
+          "option": "Each slide or page in a presentation is an individual file loaded as a separate Key Message",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Many slides or pages in many presentations shared by many Key Messages",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Do Content Creators need to prepare media to be loaded into Vault PromotMats?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Ideal content design should be which of the following?",
+      "answers": [
+        {
+          "option": "Use a mixture of deep and wide philosophies depending on needs",
+          "valid": "Correct"
+        },
+        {
+          "option": "Wide Content Design Philosophy",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Deep Content Design Philosophy",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which statement describes Wide Content?",
+      "answers": [
+        {
+          "option": "Many slides or pages in many presentations shared by many Key Messages",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "All slides or pages in a presentation are hosted in an individual file loaded as a single Key Message",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Each slide or page in a presentation is an individual file loaded as a separate Key Message",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Can CLM Content be flagged as training material?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following Veeva JavaScript methods allow you access to a Hidden Presentation?",
+      "answers": [
+        {
+          "option": "getDataforObject",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "gotoSlide",
+          "valid": "Correct"
+        },
+        {
+          "option": "launchSlide",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can a Key Message be viewed in Portrait?",
+      "answers": [
+        {
+          "option": "Yes, but only if the Rotation Lock has been disabled for the given Key Message",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Yes",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Select all the Native Resolution Options?",
+      "answers": [
+        {
+          "option": "Scale to 2048x1536",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Scale to Fit",
+          "valid": "Correct"
+        },
+        {
+          "option": "Scale to 1024x768",
+          "valid": "Correct"
+        },
+        {
+          "option": "Default for Device",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Select the native CLM functions that can be disabled?",
+      "answers": [
+        {
+          "option": "History Button",
+          "valid": "Correct"
+        },
+        {
+          "option": "Action Menu",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Navigation Bar",
+          "valid": "Correct"
+        },
+        {
+          "option": "Swipe",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "For Legacy Packaging, is it possible to include stylesheet files?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can you upload ZIP files larger than 500MB?",
+      "answers": [
+        {
+          "option": "Yes, if they are compressed",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Yes, but onlyu with FTP",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Is it possible to create Key Messages directly in Veeva CRM?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Is it possible to migrate CLM Content from one Veeva CRM instance to another Veeva CRM instance?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Is it possible to create a CLM Presentation directly in Veeeva CRM?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following statements are true",
+      "answers": [
+        {
+          "option": "HTML Content can contain HTML, images, fonts, CSS and JavaScript",
+          "valid": "Correct"
+        },
+        {
+          "option": "HTML Content can only contain an index.html and thumb.png",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can CLM content be previewed in Valut",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "For HTML Content which files must be included in the ZIP file?",
+      "answers": [
+        {
+          "option": "thumb.jpg",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "thumb.png",
+          "valid": "Correct"
+        },
+        {
+          "option": "index.html",
+          "valid": "Correct"
+        },
+        {
+          "option": "default.html",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "HTML CLM content must be compressed into a ZIP file",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Excluding HTML, what other typed of content can be packaged and loaded?",
+      "answers": [
+        {
+          "option": "PDF",
+          "valid": "Correct"
+        },
+        {
+          "option": "PowerPoint",
+          "valid": "Correct"
+        },
+        {
+          "option": "Image",
+          "valid": "Correct"
+        },
+        {
+          "option": "Video",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "What is the maximum number of documents that can be changed at once by a bulk document action",
+      "answers": [
+        {
+          "option": "500",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "2000",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "10",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "1000",
+          "valid": "Correct"
+        },
+        {
+          "option": "1",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can you use Bulk Actions to add Multichannel Slides to a Multichannel Presentation?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Is it possible to have multiple versions of a document in Vault PromoMats?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Select the 2 ways to add a new version of a document to Vault PromoMats",
+      "answers": [
+        {
+          "option": "Upload a new version of a document",
+          "valid": "Correct"
+        },
+        {
+          "option": "Update document",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Create a document draft",
+          "valid": "Correct"
+        },
+        {
+          "option": "Supersede document",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which 2 ways can you download assets from Vault PromoMats?",
+      "answers": [
+        {
+          "option": "Vault Export",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Binder Export",
+          "valid": "Correct"
+        },
+        {
+          "option": "Multichannel Exporter",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Bulk Document Export",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Can you use the Multichannel Loader to load Required Slides?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Can you use the Multichannel Loader for Auto Packaging?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Yes",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Yes, when the correct fields are populated",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Please select the documents that are used by the Multichannel Loader?",
+      "answers": [
+        {
+          "option": "Access Database",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "CSV File",
+          "valid": "Correct"
+        },
+        {
+          "option": "Document ZIP files",
+          "valid": "Correct"
+        },
+        {
+          "option": "Viewable Rendition Files",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which export options are available in Vault PromoMats",
+      "answers": [
+        {
+          "option": "CLM Export",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Binder Export",
+          "valid": "Correct"
+        },
+        {
+          "option": "Bulk Document Export",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following are examples of use cases for the Vault PromoMats Multichannel Loader?",
+      "answers": [
+        {
+          "option": "Synchronise content on the iPad",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Update ZIP source files for slides",
+          "valid": "Correct"
+        },
+        {
+          "option": "Update document fileds",
+          "valid": "Correct"
+        },
+        {
+          "option": "Creating presentations and slides",
+          "valid": "Correct"
+        },
+        {
+          "option": "Add slides to presentations",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Is it possible to integrate a survey into a CLM Presentation?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "In order to make a survey available to a Rep what is the final step?",
+      "answers": [
+        {
+          "option": "Created",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Launched",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Published",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Survey Branching is available via which channels?",
+      "answers": [
+        {
+          "option": "Vault PromoMats",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "CRM",
+          "valid": "Correct"
+        },
+        {
+          "option": "CLM",
+          "valid": "Correct"
+        },
+        {
+          "option": "Approved Email",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Survey Branching is available on which of the following platforms?",
+      "answers": [
+        {
+          "option": "Android",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "iPhone",
+          "valid": "Correct"
+        },
+        {
+          "option": "CRM Online",
+          "valid": "Correct"
+        },
+        {
+          "option": "Windows",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "iPad",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "On which platforms can you complete a survey?",
+      "answers": [
+        {
+          "option": "Windows Tablet",
+          "valid": "Correct"
+        },
+        {
+          "option": "iPhone",
+          "valid": "Correct"
+        },
+        {
+          "option": "Android",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "iPad",
+          "valid": "Correct"
+        },
+        {
+          "option": "CRM Online",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following Veeva JavaScript methods are used to get Survey Data in HTML?",
+      "answers": [
+        {
+          "option": "getSurveyTarget_Account",
+          "valid": "Correct"
+        },
+        {
+          "option": "getQuestionResponse_SurveyTarget",
+          "valid": "Correct"
+        },
+        {
+          "option": "getSurveyQuestions_Survey",
+          "valid": "Correct"
+        },
+        {
+          "option": "getDataforCurrentObject('Survey')",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "accessSurveyQuestions",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Survey Branching allows for conditional questuions based on previous answer choices.",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "For Survey Branching, Parent questions can be which of the following types?",
+      "answers": [
+        {
+          "option": "Text",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Number",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Picklist",
+          "valid": "Correct"
+        },
+        {
+          "option": "Radio",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following Veeva JavaScript methods are used to add or update Survey Data in HTML?",
+      "answers": [
+        {
+          "option": "createSurvey",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "updateSurvey",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "createRecord",
+          "valid": "Correct"
+        },
+        {
+          "option": "updateRecord",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Does Survey Overlay need to be configured?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which two fields must be populated to enable the Survey Overlay page to display in CLM?",
+      "answers": [
+        {
+          "option": "The Enable Survey Overlay field must equal yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "Populate the Survey lookup field with the correct Survey",
+          "valid": "Correct"
+        },
+        {
+          "option": "The Enbale Survey overlay field must equal no",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can the Survey Overlay be used without selecting an Account?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Correct"
+        },
+        {
+          "option": "Yes",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "When Survey Branching is used, will the HCP see the child questions when the Survey initially loads on the page?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "No",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Veeva CRM on Windows is supported on which of the following?",
+      "answers": [
+        {
+          "option": "Windows 8",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Windows 10 Professional",
+          "valid": "Correct"
+        },
+        {
+          "option": "Windows 10 Enterprise",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Do legacy CLM API functions work on Windows?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "No",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "What is the supported resolution on Windows?",
+      "answers": [
+        {
+          "option": "1920x1080",
+          "valid": "Correct"
+        },
+        {
+          "option": "1024x768",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "2048x1536",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Are there considerations when naming files for Windows?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "What is the aspect ratio of Windows?",
+      "answers": [
+        {
+          "option": "16:9",
+          "valid": "Correct"
+        },
+        {
+          "option": "4:3",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "12:9",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which feature shows existing relationships between a document and a binder?",
+      "answers": [
+        {
+          "option": "Where Used",
+          "valid": "Correct"
+        },
+        {
+          "option": "Locate Document",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Parent Document",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can you use Bulk Actions to change the state of documents?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Is the External ID of a document created automatically by Vault PromoMats?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Correct"
+        },
+        {
+          "option": "Yes",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can you use the Multichannel Loader to load Shared Resources?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Is it possible to transfer content from a partner Vault to a Customer Vault?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can the Rep embed a survey in an Approved Email?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Correct"
+        },
+        {
+          "option": "Yes",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can the Rep open a survey from the Action Button menu?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which of these are options for a Rep in the Survey Overlay?",
+      "answers": [
+        {
+          "option": "The Rep can select save, allowing the survey to be stored",
+          "valid": "Correct"
+        },
+        {
+          "option": "The Rep can delegate the survey to another person",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "The Rep can submit the survey, all answers will be saved to CRM Online",
+          "valid": "Correct"
+        },
+        {
+          "option": "The Rep can cancel the survey without completing, and return to the CLM contnet",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Are all current CLM Image Types suppored in Windows 10?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "How is CLM Content rendered on Windows?",
+      "answers": [
+        {
+          "option": "Using the Webview Class",
+          "valid": "Correct"
+        },
+        {
+          "option": "Using WKWebview",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Does Windows and iPad have the same Aspect Ratio?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Correct"
+        },
+        {
+          "option": "Yes",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following features are not supported on Windows?",
+      "answers": [
+        {
+          "option": "Augmented Reality",
+          "valid": "Correct"
+        },
+        {
+          "option": "Concealing Out of Focus Content",
+          "valid": "Correct"
+        },
+        {
+          "option": "Defining Swipe Sensitivity",
+          "valid": "Correct"
+        },
+        {
+          "option": "Using FaceTime with CLM",
+          "valid": "Correct"
+        },
+        {
+          "option": "HTML Large Screen Devices",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+          "question": "Where do you find the Document ID?",
+          "answers": [
+        {
+              "option": "In the document URL",
+              "valid": "Correct"
+        },
+        {
+              "option": "Under Active Workflows",
+              "valid": "Incorrect"
+        },
+        {
+              "option": "In the General Section",
+              "valid": "Correct"
+        },
+        {
+          "option": "In the Business Admin section",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can you allow Reps to access content specifically for training and prevent this from being shown accidentally to an HCP?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can Reps view CLM content via the PowerPoint application on their iPad?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can a native Microsoft Powerpoint Presentation be converted into a Veeva CLM Presentation?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Is it possible to require certain content to be viewed prior to the rest of the Presentation?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Do Custom Presentations allow the Rep to modify CLM content directly?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "No",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "If correctly configured, can PowerPoint content include navigation buttons when converted into a CLM Presentation?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Does Vault PromoMats have a specific packaging format?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Depends on the circumstances",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Is it possible to preview CLM content within Vault PromoMats?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "What types of content are supported in Veeva CLM?",
+      "answers": [
+        {
+          "option": "HTML",
+          "valid": "Correct"
+        },
+        {
+          "option": "Image",
+          "valid": "Correct"
+        },
+        {
+          "option": "PDF",
+          "valid": "Correct"
+        },
+        {
+          "option": "Video",
+          "valid": "Correct"
+        },
+        {
+          "option": "PowerPoint",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "What is best practice for testing CLM content?",
+      "answers": [
+        {
+          "option": "View in Veeva CRM on the same device as Reps use in the field",
+          "valid": "Correct"
+        },
+        {
+          "option": "View in Safari on iPad or Edge on Windows",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "View in CLM Preview in Vault PromoMats",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "View in Veeva CRM on any device",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "For Auto-Packaging of Images, PDFs and Videos, which fields must be populated for CLM?",
+      "answers": [
+        {
+          "option": "CLM Content",
+          "valid": "Correct"
+        },
+        {
+          "option": "Description",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Shared Resource",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "CRM Media Type",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Select the advantages of using Survey Integration in CLM.",
+      "answers": [
+        {
+          "option": "The Rep does not need to leave the CLM Presentation to complete the survey",
+          "valid": "Correct"
+        },
+        {
+          "option": "The Rep can easily send a survey from Approved Email",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "The Rep can complete multiple surveys at once",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "The survey can be delivered in a more interactive way",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Can Surveys be integrated into a PDF CLM Presentation?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Correct"
+        },
+        {
+          "option": "Yes",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "When SUrvey Branching is used, will the HCP see the child questions when the Survey initally loads on the page?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Correct"
+        },
+        {
+          "option": "Yes",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following versions are included in the Veeva CRM iOS Support Policy?",
+      "answers": [
+        {
+          "option": "The latest version of iOS and one previous version",
+          "valid": "Correct"
+        },
+        {
+          "option": "The most current generally available version and four prior historical versions",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "The latest iOS version",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "How many pixels is the total area of the Action button, Highlighter Pen, and History Buttons?",
+      "answers": [
+        {
+          "option": "60x176",
+          "valid": "Correct"
+        },
+        {
+          "option": "60x37",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "30x150",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following can be disabled within CLM?",
+      "answers": [
+        {
+          "option": "History Buttons",
+          "valid": "Correct"
+        },
+        {
+          "option": "Reaction Buttons",
+          "valid": "Correct"
+        },
+        {
+          "option": "Action Button",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Navigation Bar",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "The Action Button is how many pixels?",
+      "answers": [
+        {
+          "option": "54x36",
+          "valid": "Correct"
+        },
+        {
+          "option": "50x30",
+          "valid": "Correct"
+        },
+        {
+          "option": "70x40",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "After uploading content into Veeva Vault, which statement is true?",
+      "answers": [
+        {
+          "option": "It is immediately available on the iPad",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "It must be synced to Veeva CRM",
+          "valid": "Correct"
+        },
+        {
+          "option": "Content should never be loaded into Veeva Vault",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "If no option is selected, which resolution is selected by default?",
+      "answers": [
+        {
+          "option": "Default for Device",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Scale 2048x1536",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Scale to Fit",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Scale to 1024x768",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Can the Custom Presentation Feature be turned on presentation by presentation?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Correct"
+        },
+        {
+          "option": "Yes",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can you access Hidden Presentations via the Media Tab in CRM Offline?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Correct"
+        },
+        {
+          "option": "Yes",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Yes, if configured",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Is it possible to migrate individual Key Messages from one Veeva CRM instance to another Veeva CRM instance?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Correct"
+        },
+        {
+          "option": "Yes",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Is it possible to automatically link a Key Message to a CLM Presentation in Veeva CRM?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "When uploading via FTP, if you are uploading 10 Key Messages, how many control files do you need?",
+      "answers": [
+        {
+          "option": "11",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "20",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "10",
+          "valid": "Correct"
+        },
+        {
+          "option": "1",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "For Legacy Packaging, should the thumbnail be a jpg or png?",
+      "answers": [
+        {
+          "option": "jpg",
+          "valid": "Correct"
+        },
+        {
+          "option": "png",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Under what circumstances must you use legacy packaging?",
+      "answers": [
+        {
+          "option": "When using a legacy version of Veeva CRM",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Loading content into Veeva CRM",
+          "valid": "Correct"
+        },
+        {
+          "option": "Loading content in to Vault Promomats",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "What types of content can be loaded?",
+      "answers": [
+        {
+          "option": "HTML",
+          "valid": "Correct"
+        },
+        {
+          "option": "PowerPoint",
+          "valid": "Correct"
+        },
+        {
+          "option": "PDF",
+          "valid": "Correct"
+        },
+        {
+          "option": "Image",
+          "valid": "Correct"
+        },
+        {
+          "option": "Video",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Vault PromoMats can automatically package content for which content types?",
+      "answers": [
+        {
+          "option": "PDF",
+          "valid": "Correct"
+        },
+        {
+          "option": "Javascript",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Video",
+          "valid": "Correct"
+        }, 
+        {
+          "option": "HTML",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Image",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Can custom fields be created in Veeva Vault and CRM?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Do CRM Administration Tabs need to be set up to enable CRM Publishing?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following are Survey Type Records?",
+      "answers": [
+        {
+          "option": "User Survey",
+          "valid": "Correct"
+        },
+        {
+          "option": "One Time",
+          "valid": "Incorrect"
+        }, 
+        {
+          "option": "Recurring",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Internal Surveys in CLM are only available from which of the following?",
+      "answers": [
+        {
+          "option": "Via hidden presentations",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "In Training content",
+          "valid": "Correct"
+        },
+        {
+          "option": "In the media section",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "Up to how many attendees can be added while hosting an Engage Meeting?",
+      "answers": [
+        {
+          "option": "5",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "15",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "25",
+          "valid": "Correct"
+        },
+        {
+          "option": "35",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Engage Meeting requires a specific Veeva license to run.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Engage Meeting supports video calling.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "From which tab can we monitor users who have Engage Meeting licenses?",
+      "answers": [
+        {
+          "option": "CLM Administration Tab",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Engage Metadata Administration Tab",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Engage Content Administration Tab",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Engage Meeting Administration Tab",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question":
+        "What is the correct Email Template Type that needs to be set in Vault for configuring an Approved Email invitation for an Engage Meeting?",
+      "answers": [
+        {
+          "option": "Standard Template",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "CoBrowse Invite Template",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Remote Meeting Invite Template",
+          "valid": "Correct"
+        },
+        {
+          "option": "Events Management Invite Template",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "For uploading a Splash Screen in CRM which record type needs to be selected under the HTML Reports Tab?",
+      "answers": [
+        {
+          "option": "Account",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Remote Meeting",
+          "valid": "Correct"
+        },
+        {
+          "option": "KOL Profile",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Splash Screen",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "Which Token needs to be used for generating an .ics file corresponding to an Engage Meeting tghat can be later downloaded by HCPs?",
+      "answers": [
+        {
+          "option": "{{Call2_vod__c.Call_Datetime_vod__c}}",
+          "valid": "Incorrect"
+        },
+        {
+          "option":
+            "{{Call2_vod__c.Parent_Call_vod__r.Call_Datetime_vod__c}}",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "{{addToCalendar}}",
+          "valid": "Correct"
+        },
+        {
+          "option": "{{iCalendar}}",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "Engage Meeting Media Player only supports CLM content sourced from Vault.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "Which of the following all web clients support two-way video between a Rep and an HCP participating in an Engage Meeting joined via a web browser?",
+      "answers": [
+        {
+          "option": "Chrome",
+          "valid": "Correct"
+        },
+        {
+          "option": "Firefox",
+          "valid": "Correct"
+        },
+        {
+          "option": "Safari",
+          "valid": "Correct"
+        },
+        {
+          "option": "Edge",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question":
+        "Engage Meetings can be conducted via iPad and Windows Desktop.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "Which Javascript method is NOT supported in Engage Meeting content created for Desktops?",
+      "answers": [
+        {
+          "option": "gotoSlide",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "createRecord",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "queryRecord",
+          "valid": "Correct"
+        },
+        {
+          "option": "getDataForCurrentObject",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "Which of the below CLM functionalities are supported for CRM Engage Media Player? (Select all that apply)",
+      "answers": [
+        {
+          "option": "Required Slides",
+          "valid": "Correct"
+        },
+        {
+          "option": "Shared Resources",
+          "valid": "Correct"
+        },
+        {
+          "option": "Hidden Presentations",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question":
+        "Which of the following CLM functionalities are supported for CRM Engage Media Player?",
+      "answers": [
+        {
+          "option": "Required Slides",
+          "valid": "Correct"
+        },
+        {
+          "option": "Shared Resources",
+          "valid": "Correct"
+        },
+        {
+          "option": "Hidden Presentations",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question":
+        "In the CRM Engage App Media Library, which of the following are valid statuses for the presentations?",
+      "answers": [
+        {
+          "option": "Approved",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Download Required",
+          "valid": "Correct"
+        },
+        {
+          "option": "Update Pending",
+          "valid": "Correct"
+        },
+        {
+          "option": "Downloaded",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question":
+        "Call Key Message records get automatically created for a key message if viewed longer than how many seconds in the CRM Engage Player?",
+      "answers": [
+        {
+          "option": "1 second",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "2 seconds",
+          "valid": "Correct"
+        },
+        {
+          "option": "3 seconds",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "4 seconds",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "What type of files are supported and can be used during an Engage Meeting presentation?",
+      "answers": [
+        {
+          "option": "HTML",
+          "valid": "Correct"
+        },
+        {
+          "option": "PDF",
+          "valid": "Correct"
+        },
+        {
+          "option": "Video",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "Should we directly make use of available CLM content for an Engage Meeting without testing?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "No",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question":
+        "Which Javascript method supported in Engage Meeting content created for an iPad?",
+      "answers": [
+        {
+          "option": "getDataForCurrentObject",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "gotoSlide",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "nextSlide",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "createMultichannelActivityLine",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "All of the above",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question":
+        "Which Javascript method is supported in Engage Meeting content created for an iPad?",
+      "answers": [
+        {
+          "option": "getDataForCurrentObject",
+          "valid": "Correct"
+        },
+        {
+          "option": "gotoSlide",
+          "valid": "Correct"
+        },
+        {
+          "option": "nextSlide",
+          "valid": "Correct"
+        },
+        {
+          "option": "createMultichannelActivityLine",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question":
+        "Which of the following field on Call object distinguishes a Detail call from a Remote Meeting call?",
+      "answers": [
+        {
+          "option": "Remote_Meeting__c",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Remote_Meeting_vod__c",
+          "valid": "Correct"
+        },
+        {
+          "option": "Veeva_Remote_Meeting_Id__c",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Veeva_Remote_Meeting_id_vod__c",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "Content uploaded via this technique should work perfectly in Engage Meeting? (Select all that apply)",
+      "answers": [
+        {
+          "option": "FTP upload in CRM",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Create Presentation in Vault",
+          "valid": "Correct"
+        },
+        {
+          "option": "Legacy packaging methodology",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Single Doc Publishing",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question":
+        "Content created via Vault\"s Create Presentation and Single-Doc Publishing will render correctly in the CRM Engage media player.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "What Vault document type should be selected when creating an Engage Meeting slide in Vault?",
+      "answers": [
+        {
+          "option": "Product Information",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Multichannel Presentation",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Multichannel Slide",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "During an Engage Meeting which of the following applies?",
+      "answers": [
+        {
+          "option": "Presenter speaks only",
+          "valid": "Incorrect"
+        },
+        {
+          "option":
+            "Attendees are able to speak and interact with the presenter",
+          "valid": "Correct"
+        },
+        {
+          "option": "Presenter and co-presenter speaks only",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "Splash Screen displays for the HCPs when the host is not viewing CLM content and is viewing other parts of CRM.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "True",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question":
+        "Which of the following JavaScript functions are supported by Engage Meeting hosted from the Desktop?",
+      "answers": [
+        {
+          "option": "nextSlide() / prevSlide()",
+          "valid": "Correct"
+        },
+        {
+          "option": "updateCurrentRecord() / createRecord()",
+          "valid": "Correct"
+        },
+        {
+          "option": "createMultichannelActivityLine()",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "gotoSlide() / gotoSlideV2()",
+          "valid": "Correct"
+        },
+        {
+          "option": "getDataForCurrentObject()",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question":
+        "Your agency is creating a HTML slide, after creating the files according to the Vault Packaging structure which statement is true?",
+      "answers": [
+        {
+          "option": "Set the files inside a folder and then zip the folder",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "All files and folders must be zipped from the root",
+          "valid": "Correct"
+        },
+        {
+          "option":
+            "Zipping the files is not necessary as Vault will auto-populate them",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "When used in an Engage Meeting invite, what does the .ics file do?",
+      "answers": [
+        {
+          "option": "Creates a claendar reminder",
+          "valid": "Correct"
+        },
+        {
+          "option": "Allows attendee to review the meeting recording",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Downloads the Engage Meeting app",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Engage Meeting Licenses are assigned by groups.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "Engage Meeting Content follows the regular CLM upload process when uploading to Vault.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "True",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question":
+        "Is it best practice to directly make use of available CLM content for an Engage Meeting with no testing.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question":
+        "What type of files are supported and can be used during an Engage Meeting presentation?",
+      "answers": [
+        {
+          "option": "HTML and PDF",
+          "valid": "Correct"
+        },
+        {
+          "option": "PDF and Videos",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Videos only",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "HTML and Videos",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "If an administrator tries to access the Engage Administration tab and gets an error, what may be happening?",
+      "answers": [
+        {
+          "option": "The browser doesn\"t support it",
+          "valid": "Incorrect"
+        },
+        {
+          "option":
+            "There are too many people trying to access at the same time",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Licenses have not been provisioned",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question":
+        "What Vault document type should be selected when creating an Engage Meeting presentation in Vault?",
+      "answers": [
+        {
+          "option": "Promotional Material",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Multichannel Presentation",
+          "valid": "Correct"
+        },
+        {
+          "option": "Approved Document",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Multichannel Slide",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which object can the Splash Screen read information from?",
+      "answers": [
+        {
+          "option": "Account_voc",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "User_vod",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "User_Detail_vod",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question":
+        "The Splash Screen is defined by the administrator in the CLM Media Library.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "How many licenses are provisioned to an agency upon request?",
+      "answers": [
+        {
+          "option": "2",
+          "valid": "Correct"
+        },
+        {
+          "option": "5",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "As many as they want",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "3",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "Media content viewed in the CRM Engage app during an Engage Meeting is tracked on the Call.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "True",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question":
+        "For an HTML slide, following the Vault Packaging structure, what should be the namer of the HTML file?",
+      "answers": [
+        {
+          "option": "slide.html",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "source.html",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "vault.html",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "index.html",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Engage Meeting can be scheduled from the Call Report.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "We do not recommend using Legacy Packaging for Engage Meeting CLM content.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "Is it possible to track CLM contnet displayed from an Engage Meeting?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "How can an agency request Engage Meeting licenses?",
+      "answers": [
+        {
+          "option": "Licenses are assigned by default",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "By sending a request to their Program Manager",
+          "valid": "Correct"
+        },
+        {
+          "option": "By logging a ticket via the Support Website",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Is it possible to host group calls in Engage Meeting?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question":
+        "It is possible to enable or disable features on a channel basis when creating CLM content.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "Who is responsible for assigning Engage Meeting licenses to Users?",
+      "answers": [
+        {
+          "option": "The System Administrator",
+          "valid": "Correct"
+        },
+        {
+          "option": "The End User",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "The Veeva Team",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "Which of the following packages would be acceptable according to the Vault Package structure?",
+      "answers": [
+        {
+          "option":
+            "engage_slide.zip > index.html, thumb.png, js (folder), CSS (folder)",
+          "valid": "Correct"
+        },
+        {
+          "option":
+            "engage_slide.zip > index.html, images.png, js (folder), CSS (folder)",
+          "valid": "Incorrect"
+        },
+        {
+          "option":
+            "engage_slide > engage_slide.html, engage_slide-thumb.png",
+          "valid": "Incorrect"
+        },
+        {
+          "option":
+            "engage_slide (folder) > engage_slide.zip > index.html, image.png, js (folder), CSS (folder)",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "Which of the following packages would be acceptable according to the Vault Package structure?",
+      "answers": [
+        {
+          "option":
+            "my_slide.zip > thumb.png, index.html, js (folder), CSS (folder), img (folder)",
+          "valid": "Correct"
+        },
+        {
+          "option":
+            "my_slide.zip > thumb.png, my_slide.html, js (folder), CSS (folder)",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "my_slide.zip > thumb.png, index.html, myfunctions.js",
+          "valid": "Correct"
+        },
+        {
+          "option":
+            "engage_slide.zip > myslide (folder) > index.html, image.png, js (folder), CSS (folder)",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Regarding the JavaScript library, select all that apply:",
+      "answers": [
+        {
+          "option":
+            "All CLM JavaScript functions are supported by Engage Meeting hosted from the iPad",
+          "valid": "Correct"
+        },
+        {
+          "option":
+            "Some JavaScript functions are supported by Engage Meeting hosted from the iPad",
+          "valid": "Incorrect"
+        },
+        {
+          "option":
+            "JavaScript is not supported by Engage Meeting when hosted from Desktop",
+          "valid": "Incorrect"
+        },
+        {
+          "option":
+            "Some JavaScript functions are supported by Engage Meeting hosted from the Desktop",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question":
+        "Exisxting CLM HTML content generally needs to be adapted to render correctly on the CRM Engage desktop Media Library.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "What Token should be used in order to add the Meeting Date and Time to the Invitation?",
+      "answers": [
+        {
+          "option": "{{Call_DateTime_vod__c}}",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "{{Date_and_time}}",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "{{Call2_vod__c.Call_Datetime_vod__C}}",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "The Splash Screen can be customised",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "In The CRM Engage App Media Library, which of the following are valid statements regarding the presentations?",
+      "answers": [
+        {
+          "option": "Waiting Approval",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Downloaded",
+          "valid": "Correct"
+        },
+        {
+          "option": "Download Required",
+          "valid": "Correct"
+        },
+        {
+          "option": "Update Pending",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question":
+        "You are creating an Engage Meeting Approved Email invitation, which tokens would you use to add Date, Time, URL, and calendar reminder in a comprehensive format?",
+      "answers": [
+        {
+          "option":
+            "{{parentCallDateTime}} / {{Call2_vod__c.Cobrowse_URL_Participant_vod__c}} / {{addToCalendar}}",
+          "valid": "Correct"
+        },
+        {
+          "option":
+            "{{Call2_vod__c.Call_Datetime_vod__c}} / {{URL}} / {{addIcsFile}}",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "What Token should be used in order to add the Meeting URL to the Invitation?",
+      "answers": [
+        {
+          "option": "{{URL}}",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "{{Call2_vod__c.Cobrowse_URL_Participant_vod__c}}",
+          "valid": "Correct"
+        },
+        {
+          "option": "{{Call2_vod__c.URL}}",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "HCPs can join an Engage Meeting from whivch of the following?",
+      "answers": [
+        {
+          "option": "Browser only",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "iPhone only",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Any device",
+          "valid": "Correct"
+        },
+        {
+          "option": "iPad only",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "How can you add an Engage Meeting calendar reminder to an Approved Email?",
+      "answers": [
+        {
+          "option":
+            "By adding the meeting to the agenda, it creates automatically",
+          "valid": "Incorrect"
+        },
+        {
+          "option":
+            "By flagging the 'option' 'send reminder' from the call report",
+          "valid": "Incorrect"
+        },
+        {
+          "option":
+            "By adding the token {{addToCalendar}} to the invitation template",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question":
+        "Content uploaded via <nobr>__________</nobr> will work perfectly in Engage Meeting.",
+      "answers": [
+        {
+          "option": "Legacy packaging methodology",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "FTP upload in CRM",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Create Presentation in Vault",
+          "valid": "Correct"
+        },
+        {
+          "option": "Single Doc Publishing",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question":
+        "We recommend that you upload Engage Meeting Content directly into CRM",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "Which of the following are considered best practices for building content for Engage Meeting when hosted from a Desktop?",
+      "answers": [
+        {
+          "option": "Use relative sizes for images",
+          "valid": "Correct"
+        },
+        {
+          "option": "Consider SVG for images and icons",
+          "valid": "Correct"
+        },
+        {
+          "option": "Not to use CSS",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Use and size content to the viewport",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question":
+        "Engage Meeting Media Player only supports CLM content sourced from Vault",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "In order to run a meeting from your desktop (Windows 7 or newer), the host should have the Veeva CRM Engage Meeting application downloaded on the machine",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "Video content of any type does not display to participants when:",
+      "answers": [
+        {
+          "option": "Hosting from Windows desktop only",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Hosting from both an iPad or Windows Desktop",
+          "valid": "Correct"
+        },
+        {
+          "option": "Hosting from an iPad only",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "Engage Meeting Hosted from the Desktop is launched from the Call Report.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Content displayed in an Engage Meeting can be tracked.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "A Presentation shared in Engage Meeting can be which of the following?",
+      "answers": [
+        {
+          "option": "Regular CLM Presentations",
+          "valid": "Correct"
+        },
+        {
+          "option": "A Binder from Vault",
+          "valid": "Correct"
+        },
+        {
+          "option": "A pdf file hosted in the user\"s desktop or iPad",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "A set of images hosted in the custoemr server",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "Engage Meeting can be hosted from which of the following devices?",
+      "answers": [
+        {
+          "option": "Android Device",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Windows Desktop",
+          "valid": "Correct"
+        },
+        {
+          "option": "iPad",
+          "valid": "Correct"
+        },
+        {
+          "option": "Windows Tablet",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question":
+        "What action is required in order for Engage Metting calls to be stored in Veeva CRM?",
+      "answers": [
+        {
+          "option": "A special API must be installed",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Special integration must be built from scratch",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Nothing, it is automaticallyu captured in Veeva CRM",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Fill in with the right word: Reference Documents and Materials (Promotional Pieces) reside in Vault PromoMats and are not synced to Veeva CRM. When the email recipient clicks through to view the document, they will always see the <nobr>__________</nobr> version of that document which is approved in Vault PromoMats.",
+      "answers": [
+        {
+          "option": "latest",
+          "valid": "Correct"
+        },
+        {
+          "option": "oldest",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "The steps required to upload Approved Email content to Vault PromoMats are: <br> 1. Create a new Approved Email document by uploading the HTML file and completing the metadata <br> 2. Upload Reference Documents and Materials <br> 3. Create relationships: <br> - Email Template - Email Fragment(s), Template Fragment and <br> - Email Template, Email Fragment - Reference Document(s), Material (Promotional Piece(s) <br> 4. Approve Reference Documents and Materials (Promotional Pieces) <br> 5. Approve (or Stage) Email Templates, Email Fragments and Template Fragments <br> 6. Perform a sync in Veeva CRM to publish content and meta-data to Veeva CRM",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "True",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "When filling out metadata fields in Vault, the required fields are highlighted in:",
+      "answers": [
+        {
+          "option": "Orange",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Red",
+          "valid": "Inorrect"
+        },
+        {
+          "option": "Yellow",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Approved Emails are normally triggered automatically based on the behaviour of the HCP.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Configuration Tokens allow personalization of Approved Emails by merging data from Veeva CRM and/or allowing Users to customise the content of the email before it is sent.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "True",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "In Vault, in the 'From' and 'Reply To' fields it is not possible to hardcode to a specific email address.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Industry standard best practices for developing HTML emails should be adhered to when creating Approved Email content. Which of the following should also be considered:",
+      "answers": [
+        {
+          "option": "Keep it simple",
+          "valid": "Correct"
+        },
+        {
+          "option": "Use Approved Email as a marketing tool",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Personalize",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "It is possible to define the exact Email Fragments that should be available to insert into each Email Template.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "When creating a new Email Template, the metadata needs to include the email header information. Which of the following fields can be optional when populating under the 'Email Properties' section of the document information in Vault PromoMats?",
+      "answers": [
+        {
+          "option": "From Name",
+          "valid": "Correct"
+        },
+        {
+          "option": "From Address",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Reply To Address",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following links generated from a token can be selected and viewed whilst in Preview or Edit Mode:",
+      "answers": [
+        {
+          "option": "{{$VaultDocID}}",
+          "valid": "Correct"
+        },
+        {
+          "option": "{{AppDocID}}",
+          "valid": "Correct"
+        },
+        {
+          "option": "{{Account.Id}}",
+          "valid": "Correct"
+        },
+        {
+          "option": "{{userName}}",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "{{ISILink}}",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Capturing HCP actions or requests from an Approved Email is done by creating a Multichannel Activity record using which of the following tokens?",
+      "answers": [
+        {
+          "option": "{{parentCallDatetime}}",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "{{approvedEmailAction}}",
+          "valid": "Correct"
+        },
+        {
+          "option": "{{approved_Email_Action}}",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "##approvedEmailAction##",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "{{requiresReview}}",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "{{EmailAction}}",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Approved Email can be used to send out links to Engage for Portals content. This is achieved by inserting <nobr>__________</nobr> Configuration Token into the HTML of the Email Template or Email Fragment.",
+      "answers": [
+        {
+          "option": "{{addToCalendar}}",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "{{approvedEmailAction}}",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "{{engageLink}}",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Before syncing Vault PromoMats and Veeva CRM, Email Template, Email Fragment and Template Fragment documents must be set to either 'Staged' or 'Approved'.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "True",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Approved Email can not be triggered to launch directly from a CLM Presentation.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "When an End User sends an Approved Email, the values of the Subject Line, and free text or rich text entered by the sender are never recorded.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Approved Emails can be marked as requiring additional review before being sent to recipients by adding the <nobr>__________</nobr> token to the appropriate content.",
+      "answers": [
+        {
+          "option": "{{requiresReview}}",
+          "valid": "Correct"
+        },
+        {
+          "option": "{{approvedEamilAction}}",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "{{parentCallDatetime}}",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Approved Email users can select and view some links generated from a token while in Preview or Edit Mode. A new browser window opens displaying the web page when selecting a link.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following ensures the HCP Account can receive an Approved Email?",
+      "answers": [
+        {
+          "option": "Ensure that the 'Approved Email Admin' checkbox is ticked on the User record",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Set the 'Approved Email Test Email Address' to the User's own email address",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Set the 'Approved Email Consent' field to 'Implicit Opt In' or create an opt in (Multichannel Consent) record for that Account",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following can be inserted into an Email Template by an end user (e.g. a sales rep)?",
+      "answers": [
+        {
+          "option": "Template Fragment",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Email Fragment",
+          "valid": "Correct"
+        },
+        {
+          "option": "Master Email Fragment",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following can be inserted in an Email Template by using Custom Text Tokens?",
+      "answers": [
+        {
+          "option": "A picklist with fixed text options",
+          "valid": "Correct"
+        },
+        {
+          "option": "A picklist of images",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "A free text field with default text",
+          "valid": "Correct"
+        },
+        {
+          "option": "A blank free text field",
+          "valid": "Correct"
+        },
+        {
+          "option": "A picklist with dynamic text options (using Merge Tokens)",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Custom Text Tokens can be used to provide end users with which of the following?",
+      "answers": [
+        {
+          "option": "A placeholder to insert images",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "A free text field",
+          "valid": "Correct"
+        },
+        {
+          "option": "A picklist of predefined text options",
+          "valid": "Correct"
+        },
+        {
+          "option": "A free text field with default text",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following are potential reasons why Approved Email content would not be visible to a user in Veeva CRM Online/Mobile?",
+      "answers": [
+        {
+          "option": "The Approved Email documents have not been successfully synced to Veeva CRM",
+          "valid": "Correct"
+        },
+        {
+          "option": "The Approved Email documents are not set to the correct state in Veeva Vault PromoMats",
+          "valid": "Correct"
+        },
+        {
+          "option": "The Veeva CRM user is not aligned to the same product as the Approved Email documents",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "HCP actions or requests from an Approved Email they have received (e.g. opting in for an event or requesting an MSL visit) can be captured as Multichannel Activity records.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Inorrect"
+        },
+        {
+          "option": "True",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Can email fragments be used to directly send email attachments?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following statemtns regarding images in Approved Emails are true?",
+      "answers": [
+        {
+          "option": "Images uploaded as Assets under an Approved Email document will be published to the Veeva Content Delivery Network",
+          "valid": "Correct"
+        },
+        {
+          "option": "Images utilized within an Approved Email document should be uploaded as a zip under 'Assets'",
+          "valid": "Correct"
+        },
+        {
+          "option": "Content creators need to manually update image paths to point to the new image locations once they are published to the Veeva Content Delivery Network",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following use cases can be supported by Approved Email? (select all that apply)",
+      "answers": [
+        {
+          "option": "Share content",
+          "valid": "Correct"
+        },
+        {
+          "option": "Announce product news",
+          "valid": "Correct"
+        },
+        {
+          "option": "Create pre-launch awareness",
+          "valid": "Correct"
+        },
+        {
+          "option": "Drive to web content",
+          "valid": "Correct"
+        },
+        {
+          "option": "Gather feedback",
+          "valid": "Correct"
+        },
+        {
+          "option": "Fulfill a medical inquiry",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "When sending hyperlinks via Approved Email, URLs can be tagged with attributes from which Veeva CRM Objects?",
+      "answers": [
+        {
+          "option": "Key Message",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "User",
+          "valid": "Correct"
+        },
+        {
+          "option": "Call",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Account",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Custom Text tokens can be utilized to allow end users (e.g. reps) to manually enter values into the 'From' and 'Reply To' email header fields.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "It is possible to insert Email Fragments in multiple places within one Email Template",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Template Fragments are used as a framework to automatically generate Email Fragments",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Where does a content administrator define the minimum and maximum number of Email Fragments that an end user can insert into an Email Template?",
+      "answers": [
+        {
+          "option": "In the document properties in Veeva Vault PromoMats",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "In the Sent Email object in Veeva CRM Online",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Within the Token used in the Email Template HTML",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following can be embedded on a custom (customer-owned) landing page?",
+      "answers": [
+        {
+          "option": "Vault Viewer",
+          "valid": "Correct"
+        },
+        {
+          "option": "Unsubscribe Page",
+          "valid": "Correct"
+        },
+        {
+          "option": "Surveys",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which Configuration Token should be used to insert a Template Fragment into an Email Template?",
+      "answers": [
+        {
+          "option": "##insertEmailFragments##",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "{{insertEmailFragments}}",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "{{emailTemplateFragment}}",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following area automatically tracked and recorded when an Approved Email is sent?",
+      "answers": [
+        {
+          "option": "Deliveries",
+          "valid": "Correct"
+        },
+        {
+          "option": "Opens",
+          "valid": "Correct"
+        },
+        {
+          "option": "Document views",
+          "valid": "Correct"
+        },
+        {
+          "option": "Clicks",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "It is possible to provide end users (e.g. reps) with a picklist of potential subject lines to choose from when they send an Approved Email.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "When sending meeting invites via Approved Email, calendar invites (.ics files) can be attached to which type of event?",
+      "answers": [
+        {
+          "option": "Engage Meeting",
+          "valid": "Correct"
+        },
+        {
+          "option": "Events Management",
+          "valid": "Correct"
+        },
+        {
+          "option": "Medical Events",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "When launching Approved Email directly from a CLM Presentation, it is possible to specify both the Email Template to be opened and the Email Fragments to be inserted into it.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "When using Approved Email to send a HCP a receipt of a transaction (e.g. requesting a product sample or raising a medical inquiry), it is possible to capture the HCPs signature in Veeva Mobile CRM and dynamically insert this into the email.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "When a Survey is sent to a HCP via Approved Email, where does the HCP complete that survey?",
+      "answers": [
+        {
+          "option": "Directly in the Approved Email received in their inbox",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "In their browser on a Veeva-hosted website, having clicked on a hyperlink in the Approved Email",
+          "valid": "Correct"
+        },
+        {
+          "option": "In their browser on a customer-hosted website, having clicked on a hyperlink in the Approved Email",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following would require using the Customer Content Configuration Token?",
+      "answers": [
+        {
+          "option": "Dynamically inserting the Account (HCP) name into an Email Template",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Dynamically inserting the User (rep) email address into an Email Template",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Dynamically inserting formulary information into an Email Template",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "From which of the follwoing Veeva CRM objects is it possible to tag URLs in Approved Emails with values? (select all that apply)?",
+      "answers": [
+        {
+          "option": "Account",
+          "valid": "Correct"
+        },
+        {
+          "option": "Call",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Key Message",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "User",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "When using the {{$VaultDocumentID}} token, remember to pull this Documnet ID from:",
+      "answers": [
+        {
+          "option": "The Document's Vault URL",
+          "valid": "Correct"
+        },
+        {
+          "option": "The Document's CRM URL",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Additional pieces can be associated to the Email Fragment by adding them as 'Other Documents' and using which of the following tokens?",
+      "answers": [
+        {
+          "option": "'$VaultDocumentID'",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "{{$VaultDocumentID}}",
+          "valid": "Correct"
+        },
+        {
+          "option": "($VaultDocumentID)",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Only one Material (Promotional Piece), ISI and PI can be assigned to an Email Fragment using {{PieceLink}}, {{ISILink}} and {{PILink}}, respectively",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "It is possible to link multiple Veeva Vault PromoMats documents to a single Email Fragment.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "In order to record HCP clicks on links within an Approved Email in Veeva CRM, labels must be added to the hyperlinks.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "HCP actions or requests from an Approved Email they have received (e.g. opting in for an event or requesting an MSL visit) can be captuired as Multichannel Activity records.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Content administrators can choose to define the exact Email Fragments available for end users to insert into each Email Template.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Dynamically inserted footnotes and citations can be previewed by the end user before sending an Approved Email.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following best describes how footnotes and citations can be inserted into Approved Emails?",
+      "answers": [
+        {
+          "option": "They are dynamically inserted into the Email Template based on the Email Fragments selected by the end user",
+          "valid": "Correct"
+        },
+        {
+          "option": "They are manually inserted into the Email Template by the end user",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "They are dynamically inserted into the Email Fragments based on the Email Template selected by the end user",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following are potential reasons for Approved Email content not being visible to a User in Veeva CRM Online/Mobile? (select all that apply)",
+      "answers": [
+        {
+          "option": "The Approved Email documents are not set to the correct states in Veeva Vault PromoMats",
+          "valid": "Correct"
+        },
+        {
+          "option": "The Approved Email documents have not been successfully synced to Veeva CRM",
+          "valid": "Correct"
+        },
+        {
+          "option": "The Veeva CRM User is not aligned to the same product as the Approved Email documents",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Where is the 'Approved Emails Test Email Address' set in Veeva CRM Online?",
+      "answers": [
+        {
+          "option": "Approved Email Administration tab",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Setup>>App Setup, Develop, Custom Settings>>Approved Email Settings (click: Edit)",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Setup>>App Setup, Develop, Custom Settings>>Approved Email Settings (click: Manage)",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Email Templates set to 'Staged' state in Veeva Vault PromoMats will be visible to all Veeva CRM Users once synced.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Where can a Veeva CRM user view the status of an Approved Email they have sent?",
+      "answers": [
+        {
+          "option": "Approved Document record in Veeva CRM Online",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Sent Email record in Veeva CRM Online/Mobile",
+          "valid": "Correct"
+        },
+        {
+          "option": "Email Template document metadata in Veeva Vault PromoMats",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following will ensure that Veeva CRMs built-in consent management does not prevent a user from sending an Approved Email to an Account for testing?",
+      "answers": [
+        {
+          "option": "Set the 'Approved Email Test Email Address' to the user's own email address",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Ensure that the 'Approved Email Admin' checkbox is ticked on the user record",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Set the 'Approved Email Consent' field to 'Implicit Opt In' or create an opt in (Multichannel Consent) record for that account",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following are potential Approved Email entry points in Veeva Mobile CRM? (select all that apply)",
+      "answers": [
+        {
+          "option": "Account Page (Account Detail)",
+          "valid": "Correct"
+        },
+        {
+          "option": "Call Report",
+          "valid": "Correct"
+        },
+        {
+          "option": "CLM Presentation",
+          "valid": "Correct"
+        },
+        {
+          "option": "Documents",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Account List (My Accounts)",
+          "valid": "Correct"
+        },
+        {
+          "option": "My Schedule",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following email header values cannot be defined for an Email Template within Veeva Vault PromoMats?",
+      "answers": [
+        {
+          "option": "Cc",
+          "valid": "Correct"
+        },
+        {
+          "option": "Reply To Address",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Subject",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Bcc",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Promotional Pieces and Reference Documents must be set to the 'Approved' state in Veeva Vault PromoMats if linked to from an Email Template or Email Fragment?",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Bcc recipients can be defined by content administrators or by end users (e.g. reps) depending on configuration.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "The email header 'Subject' field can be hard coded or utilize Custom Text or Merge Tokens to enable personalization.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Where should email header information (from address, subject, etc) be defined for Email Templates?",
+      "answers": [
+        {
+          "option": "In the Email Template HTML file",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "In Veeva CRM Online",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "In the Email Template document metadata in Veeva Vault PromoMats",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following statements about the BEE Editor are true? (select all that apply)",
+      "answers": [
+        {
+          "option": "No knowledge of HTML is required to use the BEE Editor",
+          "valid": "Correct"
+        },
+        {
+          "option": "The BEE Editor can be used to create Email Templates and Email Fragments",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Only Email Templates originally created using the BEE Editor ca be edited using it",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "What is the correct format of the expanded markup syntax Merge Token used to dynamically pull values from the Account, User and Approved Document objects?",
+      "answers": [
+        {
+          "option": "{{ObjectAPIName_FieldAPIName}}",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "{{ObjectAPIName.FieldAPIName}}",
+          "valid": "Correct"
+        },
+        {
+          "option": "{{ObjectLabel.FieldLabel}}",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "##ObjectAPIName.FieldAPIName##",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Configuration Tokens are only supported in Email Fragments if they are used within href tags and require no User input.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which characters should surround Merge Tokens when they are used within a Custom Text token?",
+      "answers": [
+        {
+          "option": "{{MergeToken}}",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "((MergeToken))",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "[[MergeToken]]",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "##MergeToken##",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Custom Text Tokens must include default text",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Using Merge Tokens, dynamic values can be pulled into an Email Template from which of the following objects? (select all that apply)",
+      "answers": [
+        {
+          "option": "Account",
+          "valid": "Correct"
+        },
+        {
+          "option": "Approved Document",
+          "valid": "Correct"
+        },
+        {
+          "option": "Key Message",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "User",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Email Fragment content must be encapsulated in a &lt;tr&gt; &lt;/tr&gt; tag.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "When considering Approved Email content creation best practices, which of the following statements are true? (select all that apply)",
+      "answers": [
+        {
+          "option": "Ensure that the content looks like a marketing email",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Ensure content is relevant and regularly refreshed",
+          "valid": "Correct"
+        },
+        {
+          "option": "Personalized content using Configuration Tokens",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Excluding the BEE Editor, what can content creators use to generate the HTML required for Approved Email Templates?",
+      "answers": [
+        {
+          "option": "Veeva CRM Online",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Veeva Vault PromoMats",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Any HTML editor/authoring tool",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following statements about Apporved Email consent management are true? (select all that apply)",
+      "answers": [
+        {
+          "option": "Veeva CRM has built-in consent management for Approved Email",
+          "valid": "Correct"
+        },
+        {
+          "option": "Veeva provides a configurable, pre-hosted unsubscribe page",
+          "valid": "Correct"
+        },
+        {
+          "option": "It is possible for customers to embed the unsubscribe page on another website",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following statements regarding Vault Viewer are correct? (select all that apply)",
+      "answers": [
+        {
+          "option": "It can be used by the recipient to view the received Approved Email in their browser",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "It can be standalone (no configuration required) or embedded on an external webpage",
+          "valid": "Correct"
+        },
+        {
+          "option": "It can be configured to allow recipients to download Reference Documents and Promotional Pieces",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following statements about Vault Viewer are true? (select all that apply)",
+      "answers": [
+        {
+          "option": "Documents can be made available for the email recipient to download via the Vault Viewer",
+          "valid": "Correct"
+        },
+        {
+          "option": "The customer must host the Vault Viewer on their own website",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "If a document is withdrawn in Veeva Vault PromoMats then the email recipient will no longer be able to view it in the Vault Viewer",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "How are Reference Documents and Promotional Pieces shared with Approved Email recipients?",
+      "answers": [
+        {
+          "option": "They are attached to the email",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "The email includes links to view the documents in the Vault Viewer",
+          "valid": "Correct"
+        },
+        {
+          "option": "Hard copies are mailed separately",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is used to automatically generate an Email Fragment from any document in Veeva Vault PromoMats?",
+      "answers": [
+        {
+          "option": "Email Template",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Template Fragment",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Master Email Fragment",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Which document type is the core component of an Approved Email?",
+      "answers": [
+        {
+          "option": "Master Email Fragment",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Email Fragment",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Email Template",
+          "valid": "Correct"
+        },
+        {
+          "option": "Template Fragment",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Where are Approved Email reports (e.g. a 'Sent Email by Account' report) usually created and viewed?",
+      "answers": [
+        {
+          "option": "Veeva Vault PromoMats",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Veeva CRM Online",
+          "valid": "Correct"
+        },
+        {
+          "option": "Veeva Mobile CRM",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Approved Email Templates can be uploaded directly to Veeva CRM Online if the customer does not have Veeva Vault PromoMats.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Where do administrators upload Approved Email content?",
+      "answers": [
+        {
+          "option": "Veeva Vault PromoMats",
+          "valid": "Correct"
+        },
+        {
+          "option": "Veeva CRM Online",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Veeva Multichannel Engine",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following use cases can be supported by Approved Email? (select all that apply)",
+      "answers": [
+        {
+          "option": "Arrange or confirm a meetings",
+          "valid": "Correct"
+        },
+        {
+          "option": "Follow up after a meeting or a no-show",
+          "valid": "Correct"
+        },
+        {
+          "option": "Send an event invite",
+          "valid": "Correct"
+        },
+        {
+          "option": "Share content",
+          "valid": "Correct"
+        },
+        {
+          "option": "Announce product news",
+          "valid": "Correct"
+        },
+        {
+          "option": "Create pre-launch awareness",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "End users can send Approved Emails from which of the following? (select all that apply)",
+      "answers": [
+        {
+          "option": "Veeva CRM Online",
+          "valid": "Correct"
+        },
+        {
+          "option": "Veeva Mobile Online",
+          "valid": "Correct"
+        },
+        {
+          "option": "Veeva Vault PromoMats",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "The image path in the HTML file will use which of the following:",
+      "answers": [
+        {
+          "option": "<img src='./my-local-folder/chillaxa-logo.png'>",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "<img src='my-local-folder/chillaxa-logo.png'>",
+          "valid": "Correct"
+        },
+        {
+          "option": "img src '/my-local-folder/chillaxa-logo.png'",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "The Vault Viewer can be embedded into an external branded website.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "True",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "The Rich Text token allows End Users to add a more versatile free text email by displaying a default text area of which of the following:",
+      "answers": [
+        {
+          "option": "200 x 300 pixels",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "400 x 300 pixels",
+          "valid": "Correct"
+        },
+        {
+          "option": "500 x 500",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Email Fragments cannot be standalone.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "True",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Approved Emails uses JSON file and a set of Veeva Aprroved Email Configuration Tokens to enable Content Creators to create content for Reps to send to HCPs.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "When populating the Vault Fields in an Email Template, the Subject field needs to be hard-coded.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "In Vault, the fields highlighted in ___________ are required.",
+      "answers": [
+        {
+          "option": "Orange",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Yellow",
+          "valid": "Correct"
+        },
+        {
+          "option": "Red",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "To synchronize content from Vault PromoMats into CRM Online, the user needs to click on the",
+      "answers": [
+        {
+          "option": "Approved Email Configuration Testing Tab",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Approved Documents Tab",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Approved Email Administration Tab",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Before syncing Vault PromoMats and Veeva CRM, the Email Template must be set to Staged in the partner's environment.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Images in an Email Template need to be uploaded in the Assets Section.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "True",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following are elements of a Veeva Approved Email?",
+      "answers": [
+        {
+          "option": "Email Templates",
+          "valid": "Correct"
+        },
+        {
+          "option": "Email Fragments",
+          "valid": "Correct"
+        },
+        {
+          "option": "Template Fragments",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "A Template Frament is an HTML snippet, used to create a footer appended to an Email Template and can be used across many Email Templates.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "True",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "It is possible to include multiple Email Fragments in a single Email Template.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "True",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Reference documents are opened in the Document Viewer. Which options below can be set by the customer to control document download?",
+      "answers": [
+        {
+          "option": "Not available for download",
+          "valid": "Correct"
+        },
+        {
+          "option": "Allow source download",
+          "valid": "Correct"
+        },
+        {
+          "option": "Allow HTML download",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Allow PDF download",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "The hyperlink of a Document is only a reference to the document in Vault and customers are unable to make any updates.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "An Email Fragment is a modular HTML snippet that can't contain embedded text or images.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Content Creators can use Approved Email Configuration Tokens within Email Fragments but only tokens which do not require the input of the Rep and are supported.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "True",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "If no Fragment is associated with the Template, any Fragment can be selected.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "True",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "In order to upload a Document into Vault, Content Creators can choose the Document type in the last step of the process.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "In order to upload an Email Fragment into Vault PromoMats, Content Creators must have an HTML file with images inserted.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "The token {{PieceLink}} in the HTML will link to a Prescribing Information Document Type",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "In Veeva CRM Online, the details on each email activity can be reviewed by clicking on the Email Activity record.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "True",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "In the Sent Email Section in Veeva CRM Online, which of the following details are visible for the Reps from the Template Email sent.",
+      "answers": [
+        {
+          "option": "Clicked",
+          "valid": "Correct"
+        },
+        {
+          "option": "Name",
+          "valid": "Correct"
+        },
+        {
+          "option": "Opened",
+          "valid": "Correct"
+        },
+        {
+          "option": "Product",
+          "valid": "Correct"
+        },
+        {
+          "option": "Delivered",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "From the 'My Accounts' page, the Rep can send an email to up to how many recipients at once?",
+      "answers": [
+        {
+          "option": "25",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "50",
+          "valid": "Correct"
+        },
+        {
+          "option": "75",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "When sending an Approved Email, ensure the Account Approved Email Consent is set to 'Explicit Opt In'",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "The details on each email acitivity can not be reviewed on Veeva CRM Mobile.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "{{addToCalendar}} token will not work if an Email Template is sent through the Veeva CRM Mobile Application on a Windows tablet.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "True",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Before syncing Vault PromoMats and Veeva CRM, the Email Template for Engage Meeting must be set to Expired.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Approved Email Templates used for Engage Meeting invitations cannot contain images.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "There aren't Tokens that provider the HCP with the date and time of the meeting and details to join the meeting.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Meeting ID and Meeting Password tokens are used to display the unique meeting ID and password in Approved Email Invitation.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "True",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Embedding the Survey iFrame in a custom landing page is supported.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Which fields must be filled in when creating a survey in Vault?",
+      "answers": [
+        {
+          "option": "CRM ID",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "External ID",
+          "valid": "Correct"
+        }, 
+        {
+          "option": "Survey Name",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Surveys can be available to survey targets without being Published.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "When an HCP receives an Approved Email with a link to a survey, the link launches the Survey in an iFrame on a Veeva hosted site.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "True",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Which fields must be filled in when creating a survey in CRM for use in Approved Email?",
+      "answers": [
+        {
+          "option": "External ID",
+          "valid": "Correct"
+        },
+        {
+          "option": "Channels",
+          "valid": "Correct"
+        },
+        {
+          "option": "Product",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "iFrame Landing Page URL",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "The Rep can view footnotes and citations in preview mode before sending the Approved Email",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Under no circumstances should a BEE Editor email be downloaded and the HTML edited directly as it can cause issues with the email filtering to SPAM.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "True",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Approved Email Configuration Tokens are used to define what citrations and footnotes are included, and where they are located in the Email Template.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "True",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "When working with Images in the BEE Editor, users are not able to edit the image (e.g. resize the image, apply visual effects, etc.).",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "When working with Text content in the BEE Editor, users can easily personalized content by inserting Special Links and Merge Tags from the Text menu.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "True",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "To avoid having to manually update the IDs each time the content is moved to a different Vault environment, where should the External ID fields be created",
+      "answers": [
+        {
+          "option": "Source Vault",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Both",
+          "valid": "Correct"
+        },
+        {
+          "option": "Target Vault",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Complete this example: \n - Vault Instance ID - https://sandbox1-vv.agency.veevavault.com \n - Vault Document ID - 108 \n function GetFragmentID() { com.veeva.clm.getApprovedDocument(_________, myAllValue); } \n function GetFragmentID() { com.veeva.clm.getApprovedDocument(________, myAllValue); }",
+      "answers": [
+        {
+          "option": "\"sandbox1-vv.agency.veevavault.com\", 108",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "\"https://sandbox1-vv.agency.veevavault\", \"108\"",
+          "valid": "Correct"
+        },
+        {
+          "option": "\"https://sandbox1-vv.agency.veevavault\", 108",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "In the Veeva CRM mobile application, the Rep can open the Media tab to select the CLM presentation and then launch Approve Emails from CLM without selecting an account first.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "In order to trigger Approved Email functionality from CLM content, the launchApprovedEmail call must be used.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "How many documents are displayed in the Recent Library?",
+      "answers": [
+        {
+          "option": "5",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "50",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "20",
+          "valid": "Correct"
+        },
+        {
+          "option": "15",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "You can find tasks assigned to you in the document library",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Which symbol is used to mark documents as favorites in the library?",
+      "answers": [
+        {
+          "option": "Checkmark",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Addition/Plus Symbol",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Star",
+          "valid": "Correct"
+        },
+        {
+          "option": "Circle",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "If you wanted to search for a document name for only a specific document type, which would you use?",
+      "answers": [
+        {
+          "option": "Advanced Search (Binoculars)",
+          "valid": "Correct"
+        },
+        {
+          "option": "Simple Search (Search Bar)",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "There is a limit of 5 fields to use as filters.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "A placeholder can be created to complete the metadata for a document before the document is ready to be uploaded.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "A document can have multiple owners.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "What is the file size limit for document uploads?",
+      "answers": [
+        {
+          "option": "1 GB",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "2 GB",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "4 GB",
+          "valid": "Correct"
+        },
+        {
+          "option": "500 MB",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "My Library shows all documents that you have access to in PromoMats.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can you upload a document withou classifying it?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "What's the file size limit for uploading a video which will create a viewable rendition?",
+      "answers": [
+        {
+          "option": "1 GB",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "2 GB",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "5 GB",
+          "valid": "Correct"
+        },
+        {
+          "option": "10 GB",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "What types of annotations can be made with a text annotation?",
+      "answers": [
+        {
+          "option": "Insert",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Highlight",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Strikeout",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "All of the above",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "When creating an anchor link to an existing document, you can't use existing anchors.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Annotations can be made offline.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can annotation colors be organized by role in a customer Vault?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can you create an annotation link to a whole document?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can you import document links without a document being uploaded?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Binders can include sections.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "True",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Does the ability to annotate require specific permissions?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Annotations can be made on videos.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "To receive alerts for your favorite documents, where would you enable this?",
+      "answers": [
+        {
+          "option": "Task Library",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Individual Documents",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Profile Settings",
+          "valid": "Correct"
+        },
+        {
+          "option": "Document Library",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "What's the most efficient way to start the process of localizing a document from another country/language?",
+      "answers": [
+        {
+          "option": "Build a new version of the document",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Request files from original agency",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Make a copy in PromoMats and send to local agency",
+          "valid": "Correct"
+        },
+        {
+          "option": "Download and send to local agency",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "You are going on vacation and need to provide access of your account to another team member to review tasks and documents, how would you do this?",
+      "answers": [
+        {
+          "option": "Delegate access to their account",
+          "valid": "Correct"
+        },
+        {
+          "option": "Share your login with them",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Send them links to documents",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Add them to sharing settings",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "What are the two key matching fields for a claim in the claim library?",
+      "answers": [
+        {
+          "option": "Product & Country",
+          "valid": "Correct"
+        },
+        {
+          "option": "Product & Document Type",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Product & Language",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Country & Category",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "What icon is used to illustrate that an annotation was created from the Claims Library using Suggested Links?",
+      "answers": [
+        {
+          "option": "Exclamation Point",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Hashtag",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Lightbulb",
+          "valid": "Correct"
+        },
+        {
+          "option": "Star",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "What's the best way to share comments with your team members that don't have access to PromoMats?",
+      "answers": [
+        {
+          "option": "Share your login",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Print annotations",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Export Annotations",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Can you start a new workflow when completing a task?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Yes",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Once a comment is resolved, it cannot be reopened.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "How can you ensure a document is not edited while you are making edits?",
+      "answers": [
+        {
+          "option": "Check out the document",
+          "valid": "Correct"
+        },
+        {
+          "option": "Placing document on hold",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Download the document",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Lock the document",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Any user can start a workflow regardless of permissions?",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Uploading a new version of a document will expire the existing version.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Can you specify the document version that you want to bring annotations forward from?",
+      "answers": [
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "You can only download documents one at a time.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "If you have the appropriate permissions, can you start a workflow from the document info page?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can you filter annotations by user?",
+      "answers": [
+        {
+          "option": "Yes",
+          "valid": "Correct"
+        },
+        {
+          "option": "No",
+          "valid": "Incorrect"
+        }
+      ]
+    }
+  ]
+}
