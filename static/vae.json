@@ -1933,6 +1933,66 @@
             "valid": "Correct"
           }
         ]
+      },
+      {
+        "question": "To avoid having to manually update the IDs each time the content is moved to a different Vault environment, where should the External ID fields be created",
+        "answers": [
+          {
+            "option": "Source Vault",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "Both",
+            "valid": "Correct"
+          },
+          {
+            "option": "Target Vault",
+            "valid": "Incorrect"
+          }
+        ]
+      },
+      {
+        "question": "Complete this example: \n - Vault Instance ID - https://sandbox1-vv.agency.veevavault.com \n - Vault Document ID - 108 \n function GetFragmentID() { com.veeva.clm.getApprovedDocument(_________, myAllValue); } \n function GetFragmentID() { com.veeva.clm.getApprovedDocument(________, myAllValue); }",
+        "answers": [
+          {
+            "option": "\"sandbox1-vv.agency.veevavault.com\", 108",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "\"https://sandbox1-vv.agency.veevavault\", \"108\"",
+            "valid": "Correct"
+          },
+          {
+            "option": "\"https://sandbox1-vv.agency.veevavault\", 108",
+            "valid": "Incorrect"
+          }
+        ]
+      },
+      {
+        "question": "In the Veeva CRM mobile application, the Rep can open the Media tab to select the CLM presentation and then launch Approve Emails from CLM without selecting an account first.",
+        "answers": [
+          {
+            "option": "True",
+            "valid": "Incorrect"
+          },
+          {
+            "option": "False",
+            "valid": "Correct"
+          }
+        ]
+      },
+      {
+        "question": "In order to trigger Approved Email functionality from CLM content, the launchApprovedEmail call must be used.",
+        "answers": [
+          {
+            "option": "True",
+            "valid": "Correct"
+          },
+          {
+            "option": "False",
+            "valid": "Incorrect"
+          }
+        ]
       }
     ]
   }
