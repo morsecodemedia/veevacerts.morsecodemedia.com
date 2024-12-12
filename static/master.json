@@ -5490,6 +5490,358 @@
           "valid": "Correct"
         }
       ]
+    },
+    {
+      "question": "Engage Meeting helps HCPs to access online content displayed in a 3rd party website.?",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "How many Engage Meeting Licenses can Veeva Content Partners have in their sandbox?",
+      "answers": [
+        {
+          "option": "2",
+          "valid": "Correct"
+        },
+        {
+          "option": "10",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "50",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "HCPs can join an Engage Meeting from a dedicated application on mobile devices or from the Web Client via a supported web browser.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Engage Meeting enables content reuse and compliance.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "From what tab in Veeva CRM are Engage Meeting User Permissions viewed?",
+      "answers": [
+        {
+          "option": "Engage Meeting User Permission Tab",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Engage Meeting Control Tab",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Engage Meeting Administration Tab",
+          "valid": "Correct"
+        },
+        {
+          "option": "Engage for Portals",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "A Splash Screen displays to HCPs when the Rep is not sharing which of the following?",
+      "answers": [
+        {
+          "option": "CLM Presentations",
+          "valid": "Correct"
+        },
+        {
+          "option": "Vault PromoMats",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Approved Email Invitations",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "How many HCPs can join an Engage Meeting?",
+      "answers": [
+        {
+          "option": "75",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "5",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "50",
+          "valid": "Correct"
+        },
+        {
+          "option": "30",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Approved Email can be used to invite HCPs to an Engage Meeting?",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Reps can use Engage Meeting to achieve which of the following?",
+      "answers": [
+        {
+          "option": "Host lunch & learns remotely",
+          "valid": "Correct"
+        },
+        {
+          "option": "Reach HCPs across a larger geographic area without the burden of travel",
+          "valid": "Correct"
+        },
+        {
+          "option": "Engage with HCPs that restrict access or have limited availability",
+          "valid": "Correct"
+        },
+        {
+          "option": "Create video recordings of their meetings with HCPs",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Ensure business continuity",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Reps can host an Engage Meeting from which of the following?",
+      "answers": [
+        {
+          "option": "iPad",
+          "valid": "Correct"
+        },
+        {
+          "option": "Windows PC",
+          "valid": "Correct"
+        },
+        {
+          "option": "Android",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "iPhone",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "The Meeting ID and Password are included in ALL Engage Meeting Participant URLs",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "During an Engage Meeting what is captured on the Call Report?",
+      "answers": [
+        {
+          "option": "Chat Transcript",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Key Messages",
+          "valid": "Correct"
+        },
+        {
+          "option": "Audio recording of the call",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Products",
+          "valid": "Correct"
+        },
+        {
+          "option": "Video recording of the call",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "How does a Rep know that they are sharing a CLM Presentation in an Engage Meeting?",
+      "answers": [
+        {
+          "option": "A yellow border around the screen",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "A green border around the screen",
+          "valid": "Correct"
+        },
+        {
+          "option": "Reps cannot share CLM contentwith HCPs in Engage Meeting",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "They must ask the HCP",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Reps must share Engage Meeting details via Approved Email",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "What is a key difference about sharing CLM content in an Engage Meeting hosted from a Windows PC compared to an iPad?",
+      "answers": [
+        {
+          "option": "Once sharing, there is a green border around the Rep's screen",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "The CLM Presentation(s) must be downloaded by the Rep withion the Media Library",
+          "valid": "Correct"
+        },
+        {
+          "option": "No difference, the Media Library is exactly the same",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Reps can only share CLM content via an iPad",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "If there are multiple HCPs in an Engage Meeting, their attendance can be uniquely tracked.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "From which platform(s) can HCPs join an Engage Meeting via a Participant URL?",
+      "answers": [
+        {
+          "option": "Veeva Engage iOS application",
+          "valid": ""
+        },
+        {
+          "option": "Veeva Engage Android application",
+          "valid": ""
+        },
+        {
+          "option": "Web Client",
+          "valid": ""
+        }
+      ]
+    },
+    {
+      "question": "HCPs can ONLY join Engage Meetings using Approved Email invitations.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "How does a Rep schedule an Engage Meeting with an HCP?",
+      "answers": [
+        {
+          "option": "Select an Account and click the 'Engage Meeting' button",
+          "valid": ""
+        },
+        {
+          "option": "Choose 'Record a Call' from the CRM dashboard",
+          "valid": ""
+        },
+        {
+          "option": "Select an Account and send an Approved Email",
+          "valid": ""
+        },
+        {
+          "option": "Select an Account and choose 'Record a Call'",
+          "valid": ""
+        }
+      ]
+    },
+    {
+      "question": "When can a Rep send an Approved Email invitation to an Engage Meeting?",
+      "answers": [
+        {
+          "option": "Only invitations sent by text message valid for Engage Meeting",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "An Approved Email can be sent after scheduling an Engage Meeting",
+          "valid": "Correct"
+        },
+        {
+          "option": "A Rep cannot send an Approved Email invitation to an Engage Meeting",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "AN Approved Email needs to be sent before scheduling an Engage Meeting",
+          "valid": "Incorrect"
+        }
+      ]
     }
   ]
 }
