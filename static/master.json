@@ -2947,7 +2947,7 @@
         },
         {
           "option": "Red",
-          "valid": "Inorrect"
+          "valid": "Incorrect"
         },
         {
           "option": "Yellow",
@@ -3283,7 +3283,7 @@
       "answers": [
         {
           "option": "False",
-          "valid": "Inorrect"
+          "valid": "Incorrect"
         },
         {
           "option": "True",
@@ -5450,6 +5450,44 @@
         {
           "option": "No",
           "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "How can a Veeva Content Partner request Engage Meeting Licenses?",
+      "answers": [
+        {
+          "option": "By sending a request to their Program Manager",
+          "valid": "Correct"
+        },
+        {
+          "option": "Licenses are assigned by default",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "By logging a ticket via the Support Website",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Reps can host an Engage Meeting from which of the following?",
+      "answers": [
+        {
+          "option": "iPhone",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Windows PC",
+          "valid": "Correct"
+        },
+        {
+          "option": "Android",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "iPad",
+          "valid": "Correct"
         }
       ]
     }

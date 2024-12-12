@@ -50,11 +50,6 @@ export default {
           data: 'promomatsReviewApprovalV2',
           label: 'PromoMats Reivew & Approval v2',
           url: '/promomats-review-and-approval-v2/'
-        },
-        {
-          data: 'masterClass',
-          label: 'The Whole Shebang - updated 2024-12-12',
-          url: '/the-whole-shebang/'
         }
       ]
     }
