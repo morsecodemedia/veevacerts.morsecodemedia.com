@@ -1,0 +1,92 @@
+{
+	"Veeva Certs: Question with 2 Answer Options": {
+		"scope": "json,javascript,typescript",
+		"prefix": "vq2",
+		"body": [
+			"{",
+				"\t\"question\": \"$1\",",
+      	"\t\"answers\": [",
+					"\t\t{",
+						"\t\t\t\"option\": \"$2\",",
+						"\t\t\t\"valid\": \"${3|Correct,Incorrect|}\"",
+					"\t\t},",
+					"\t\t{",
+						"\t\t\t\"option\": \"$4\",",
+						"\t\t\t\"valid\": \"${5|Correct,Incorrect|}\"",
+					"\t\t}",
+      	"\t]",
+			"}",
+			"$0"
+		],
+		"description": "Stubs out a Question Object with 2 Possible Answers"
+	},
+
+	"Veeva Certs: Question with 3 Answer Options": {
+		"scope": "json,javascript,typescript",
+		"prefix": "vq3",
+		"body": [
+			"{",
+				"\t\"question\": \"$1\",",
+      	"\t\"answers\": [",
+					"\t\t{",
+						"\t\t\t\"option\": \"$2\",",
+						"\t\t\t\"valid\": \"${3|Correct,Incorrect|}\"",
+					"\t\t},",
+					"\t\t{",
+						"\t\t\t\"option\": \"$4\",",
+						"\t\t\t\"valid\": \"${5|Correct,Incorrect|}\"",
+					"\t\t},",
+					"\t\t{",
+						"\t\t\t\"option\": \"$6\",",
+						"\t\t\t\"valid\": \"${7|Correct,Incorrect|}\"",
+					"\t\t}",
+      	"\t]",
+			"}",
+			"$0"
+		],
+		"description": "Stubs out a Question Object with 3 Possible Answers"
+	},
+
+	"Veeva Certs: Question with 4 Answer Options": {
+		"scope": "json,javascript,typescript",
+		"prefix": "vq4",
+		"body": [
+			"{",
+				"\t\"question\": \"$1\",",
+      	"\t\"answers\": [",
+					"\t\t{",
+						"\t\t\t\"option\": \"$2\",",
+						"\t\t\t\"valid\": \"${3|Correct,Incorrect|}\"",
+					"\t\t},",
+					"\t\t{",
+						"\t\t\t\"option\": \"$4\",",
+						"\t\t\t\"valid\": \"${5|Correct,Incorrect|}\"",
+					"\t\t},",
+					"\t\t{",
+						"\t\t\t\"option\": \"$6\",",
+						"\t\t\t\"valid\": \"${7|Correct,Incorrect|}\"",
+					"\t\t},",
+					"\t\t{",
+						"\t\t\t\"option\": \"$8\",",
+						"\t\t\t\"valid\": \"${9|Correct,Incorrect|}\"",
+					"\t\t}",
+      	"\t]",
+			"}",
+			"$0"
+		],
+		"description": "Stubs out a Question Object with 4 Possible Answers"
+	},
+
+	"Veeva Certs: 1 Answer Option": {
+		"scope": "json,javascript,typescript",
+		"prefix": "va",
+		"body": [
+			"\t{",
+				"\t\t\"option\": \"$1\",",
+				"\t\t\"valid\": \"${2|Correct,Incorrect|}\"",
+			"\t}",
+			"$0"
+		],
+		"description": "Stubs out an one-off Answer Object"
+	}
+}

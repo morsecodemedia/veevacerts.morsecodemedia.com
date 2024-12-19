@@ -7,7 +7,7 @@ Live text search on questions.
 More Coming Soon...
 
 ### Question/Answer JSON Object
-Create a JSON object and save it in the `static` folder as `certificationName.json`. Match the `certificationName` in the object to the name of the file.
+The JSON object is saved in the `static` folder as `master.json`.
 
 Use the following format for the questions and answers. You are able to have as many answer options as needed for each question. This also allows you to select multiple correct answers.
 ```

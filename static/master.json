@@ -5838,10 +5838,11 @@
           "valid": "Incorrect"
         },
         {
-          "option": "AN Approved Email needs to be sent before scheduling an Engage Meeting",
+          "option": "An Approved Email needs to be sent before scheduling an Engage Meeting",
           "valid": "Incorrect"
         }
       ]
     }
+    
   ]
 }
