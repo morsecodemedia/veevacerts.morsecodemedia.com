@@ -6892,21 +6892,128 @@
           "valid": "Incorrect"
         }
       ]
+    },
+    {
+      "question": "Documents in Vault Viewer can never be downloaded.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "A Template Fragment is an HTML snippet, used to create a footer appended to an Email Template and can be used across many Email Templates.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Email Fragments can be placed in multiple locations within an Email Template.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "The customer may manually or schedule the expiration of a distributed document.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Email Fragments can be standalone in an Approve Email.",
+      "answers": [
+        {
+          "option": "False",
+          "valid": "Correct"
+        },
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Reps can't preview the template before sending.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "To add related Email Fragments to the Email Template, click 'Preview', select the preferred Email Fragments and click 'Add Selected'.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "If an Approved Email includes a Survey, the user needs to create the Survey Record in Vault and set the same External ID and Start & End Dates as in Veeva CRM.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following tokens is used by the user to include a survey in the Email Template or Email Fragment?",
+      "answers": [
+        {
+          "option": "{{surveyLink}}",
+          "valid": "Correct"
+        },
+        {
+          "option": "{{survey}}",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "{{insertSurvey}}",
+          "valid": "Incorrect"
+        }
+      ]
     }
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-  
   ]
 }
