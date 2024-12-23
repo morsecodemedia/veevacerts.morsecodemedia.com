@@ -81,10 +81,10 @@
 		"scope": "json,javascript,typescript",
 		"prefix": "va",
 		"body": [
-			"\t{",
-				"\t\t\"option\": \"$1\",",
-				"\t\t\"valid\": \"${2|Correct,Incorrect|}\"",
-			"\t}",
+			"{",
+				"\t\"option\": \"$1\",",
+				"\t\"valid\": \"${2|Correct,Incorrect|}\"",
+			"}",
 			"$0"
 		],
 		"description": "Stubs out an one-off Answer Object"
