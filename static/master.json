@@ -5999,7 +5999,7 @@
       ]
     },
     {
-      "question": "Engage Meeting Invitations should never icnlude the Participant URL.",
+      "question": "Engage Meeting Invitations should never include the Participant URL.",
       "answers": [
         {
           "option": "False",
@@ -7013,7 +7013,640 @@
           "valid": "Incorrect"
         }
       ]
+    },
+    {
+      "question": "If an Approved Email includes a Survey, the user needs to create the Survey in Veeva CRM and set the External ID",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "When setting up surveys in CRM for Approved Email, which option must be selected for the Channels field?",
+      "answers": [
+        {
+          "option": "Approved Email",
+          "valid": "Correct"
+        },
+        {
+          "option": "CLM",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "CRM",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "What are potential use cases for surveys in Approved Email?",
+      "answers": [
+        {
+          "option": "Gain feedback from HCPs on topics via email",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Both",
+          "valid": "Correct"
+        },
+        {
+          "option": "Conduct ad hoc market research with accounts",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "{{FootnoteSymbol[Sequence Number]}} inserts a footnote symbol in the following order:",
+      "answers": [
+        {
+          "option": "*",
+          "valid": "Correct"
+        },
+        {
+          "option": "†",
+          "valid": "Correct"
+        },
+        {
+          "option": "‡",
+          "valid": "Correct"
+        },
+        {
+          "option": "§",
+          "valid": "Correct"
+        },
+        {
+          "option": "||",
+          "valid": "Correct"
+        },
+        {
+          "option": "¶",
+          "valid": "Correct"
+        }
+        
+      ]
+    },
+    {
+      "question": "In BEE Editor, it is not possible to have multiple columns in a row.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "In Approved Emails, users need to manually create footnotes, citations, and citation summaries.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "BEE Editor requires HTML knowledge.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "BEE Editor gives customers the opportunity to add a link to the PI, ISI or other Vault Documents. These documents must be in the steady state (e.g. Approved).",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "In Vault, the required fields are highlighted in _________.",
+      "answers": [
+        {
+          "option": "Yellow",
+          "valid": "Correct"
+        },
+        {
+          "option": "Red",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Orange",
+          "valid": "Incorrect"
+        }
+        
+      ]
+    },
+    {
+      "question": "Before syncing Vault PromoMats and Veeva CRM, the Documents must be set to Staged in the Agency's environment",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "In CRM Online, the user will need to click on the _________ to synchronize content from Vault PromoMats.",
+      "answers": [
+        {
+          "option": "Approved Documents Tab",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Approved Email Administration Tab",
+          "valid": "Correct"
+        },
+        {
+          "option": "Approved Email Configuration Testing Tab",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "All Template Fragments need to contain images.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "There is no way to re-render images if needed.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "If the Email Template is in the Staged State, then this will only be available to Users with the'Approved Email Admin' field checked on their User Record.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "It is possible to display content in Portrait mode on the iPad only.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "All CLM JS Library functions can be used in CLM Presentations presented in Engage Meetings hosted on iPad.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "All CLM JS Library functions can be used in CLM Presnetations presented in Engage Meetings hosted on CRM Desktop (Windows PC).",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following CLM JS functions can be used in CLM Presnetations presented in Engage Meetings hosted on CRM Desktop (Windows PC)?",
+      "answers": [
+        {
+          "option": "nextSlide(), prevSlide(), gotoSlide(), gotoSlideV2(), launchApprovedEmail(), updateCurrentRecord(), updateRecord(), createRecord(), getDataForCurrentObject(), queryRecord()",
+          "valid": "Correct"
+        },
+        {
+          "option": "nextSlide(), prevSlide(), gotoSlide(), launchApprovedEmail(), updateRecord(), createRecord(), queryRecord()",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "gotoSlide(), queryRecord()",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "launchApprovedEmail(), launchSurvey()",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "The Engage Contnet document field does not need to be filled as this is only used for Engage for Portals nad CoBrowse content.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "For compatibility with Engage Meeting, content must have the Publish for Veeva CRM (CLM) document field set to 'Yes'.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Video CLM Slides or HTML5 CLM Slides with embedded videos will work in Engage Meetings hosted via a Windows PC.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Video CLM Slides or HTML5 CLM SLides with embedded videos will work on which platform(s) in Engage Meeting?",
+      "answers": [
+        {
+          "option": "Windows PC (via CRM Online) Only",
+          "valid": "Correct"
+        },
+        {
+          "option": "Videos are not supported in Engage Meeting",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "iPad and Windows PCs (via CRM Online)",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "iPad Only",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "iPhone and iPad",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "A CLM Presentation must be uploaded to Veeva Vault PromoMats in order to be visible in the Media Library when hosting an Engage Meeting from a Windows PC (via CRM Online).",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which Javascript methods are supported in Engage Meeting content created for Windows PC? (Select all that apply)",
+      "answers": [
+        {
+          "option": "gotoSlide",
+          "valid": "Correct"
+        },
+        {
+          "option": "createRecord",
+          "valid": "Correct"
+        },
+        {
+          "option": "launchApprovedEmail",
+          "valid": "Correct"
+        },
+        {
+          "option": "queryRecord",
+          "valid": "Correct"
+        },
+        {
+          "option": "getDataForCurrentObject",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Where Content Creators create a custom Splash Screen, they can dynamically pull Rep and Company Information into it using the Veeva MyInsights Javascript Library.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Can content adapt to the Call Type (i.e. F2F with CLM vs Remote with Engage Meeting)? If so, how?",
+      "answers": [
+        {
+          "option": "Yes, query to Remote Meeting Object",
+          "valid": ""
+        },
+        {
+          "option": "Yes, query the Call Field",
+          "valid": ""
+        },
+        {
+          "option": "Yes, query the Call Object",
+          "valid": ""
+        },
+        {
+          "option": "No, not possible",
+          "valid": ""
+        }
+      ]
+    },
+    {
+      "question": "Engage Meeting leverages the underlying _______ product for both the creation and delivery of the Splash Screen.",
+      "answers": [
+        {
+          "option": "MyInsights",
+          "valid": "Correct"
+        },
+        {
+          "option": "CLM",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Approved Email",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Engage Meeting",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Admins and Content Creators can customise the Splash Screen using a Veeva CRM MyInsights visualisation.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "To adapt content based on the Rep's device, check if ________ is populated on the Remote_Meeting_vod__c record.",
+      "answers": [
+        {
+          "option": "Device_Type",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Remote_Id",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Mobile_Id",
+          "valid": "Correct"
+        },
+        {
+          "option": "Engage_Meeting",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Once the custom Splash Screen has been created, where in Veeva CRM Online should it be uploaded?",
+      "answers": [
+        {
+          "option": "HTML Reports Tab",
+          "valid": "Correct"
+        },
+        {
+          "option": "Engage Meeting Administration Tab",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Approved Email Administration Tab",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "CLM Administration Tab",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "What Veeva Javascript Library can be used to create Splash Screens?",
+      "answers": [
+        {
+          "option": "Veeva CRM Engage Javascript Library",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Veeva CLM Javascript Library",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Veeva Vault Javascript Library",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Veeva MyInsights Javascript Library",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Splash Screens are not required to use Engage Meeting.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Developers can use custom code that dynamically adapts CLM content to the specific device that the HCP uses to attend an Engage Meeting.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "For Veeva CLM to identify the Email Template and corresponding Fragments, which of the below must be found?",
+      "answers": [
+        {
+          "option": "Salesforce Record IDs",
+          "valid": "Correct"
+        },
+        {
+          "option": "Vault Document ID",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "Vault Instance ID",
+          "valid": "Incorrect"
+        }
+      ]
+    },
+    {
+      "question": "Which function below is used to retrieve the Salesforce Record IDs?",
+      "answers": [
+        {
+          "option": "getApprovedDocument",
+          "valid": "Correct"
+        },
+        {
+          "option": "launchApprovedEmail",
+          "valid": "Correct"
+        },
+        {
+          "option": "GetTemplateID",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Launching Approved Email from CLM requires extensive use of Javascript and firm knowledge of Vault PromoMats.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Correct"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "There are 2 steps in order to launch Approved Email and the Javascript should be built out in this order: \n 1. Retrieve the Record ID of the Email Fragment. \n 2. Open up the Approved Email User Interface using the launchApprovedEmail function.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "The launchApprovedEmail() function in the Veeva Javascript Library uses the Vault Instance ID as the identifier of the Email Template and Email Fragment to launch the Approved Email.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Processess should exist to ensure multiple Approved State Templates/Fragments have the same External ID.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
+    },
+    {
+      "question": "Approved Email Templates used for Engage Meeting invitations cannot contain images.",
+      "answers": [
+        {
+          "option": "True",
+          "valid": "Incorrect"
+        },
+        {
+          "option": "False",
+          "valid": "Correct"
+        }
+      ]
     }
-    
   ]
 }
