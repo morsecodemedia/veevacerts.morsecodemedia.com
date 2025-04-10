@@ -31,26 +31,26 @@ export default {
   data () {
     return {
       tests: [
-        {
-          data: 'clmTechV2',
-          label: 'CLM Technical & Business Certifications v2',
-          url: '/clm-technical-business-v2/'
-        },
-        {
-          data: 'vaeTechV2',
-          label: 'Approved Email Technical Certification v2',
-          url: '/vae-technical-v2/'
-        },
-        {
-          data: 'engageTechV2',
-          label: 'Engage Meeting Technical Certification v2',
-          url: '/engage-technical-v2/'
-        },
-        {
-          data: 'promomatsReviewApprovalV2',
-          label: 'PromoMats Reivew & Approval v2',
-          url: '/promomats-review-and-approval-v2/'
-        }
+        // {
+        //   data: 'clmTechV2',
+        //   label: 'CLM Technical & Business Certifications v2',
+        //   url: '/clm-technical-business-v2/'
+        // },
+        // {
+        //   data: 'vaeTechV2',
+        //   label: 'Approved Email Technical Certification v2',
+        //   url: '/vae-technical-v2/'
+        // },
+        // {
+        //   data: 'engageTechV2',
+        //   label: 'Engage Meeting Technical Certification v2',
+        //   url: '/engage-technical-v2/'
+        // },
+        // {
+        //   data: 'promomatsReviewApprovalV2',
+        //   label: 'PromoMats Reivew & Approval v2',
+        //   url: '/promomats-review-and-approval-v2/'
+        // }
       ]
     }
   },
